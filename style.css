@@ -1,0 +1,265 @@
+html {
+      font-family: Beleren2016SmallCaps-Bold;
+      background-color: #212121;
+      color: #ffffff;
+}
+
+/*
+* {
+      outline: 1px dotted red;
+}
+
+*/
+
+.flexContainer {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      margin-left: 272px;
+      margin-top: 30px;
+}
+
+.sideBar {
+      display: flex;
+      /* justify-content: center; */
+      align-items: center;
+      align-content: flex-start;
+      flex-direction: column;
+      height: 100%;
+      /* Full-height: remove this if you want "auto" height */
+      width: 250px;
+      /* Set the width of the sidebar */
+      position: fixed;
+      /* Fixed Sidebar (stay in place on scroll) */
+      z-index: 1;
+      /* Stay on top */
+      top: 0;
+      /* Stay at the top */
+      left: 0;
+      overflow-x: hidden;
+      /* Disable horizontal scroll */
+      padding: 10px;
+      /* border-right: 1px solid #000000; */
+      text-align: center;
+}
+
+.sideBarBorder {
+      position: fixed;
+      height: 100%;
+      width: 2px;
+      background: linear-gradient(to bottom, #0038A8, #9B4F96, #D60270);
+      margin-left: 270px;
+      top: 0;
+      left: 0;
+      overflow-x: hidden;
+}
+
+.flip-card {
+      background-color: transparent;
+      perspective: 1000px;
+      /* Remove this if you don't want the 3D effect */
+      user-select: none;
+}
+
+.flip-card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.3s;
+      transform-style: preserve-3d;
+      will-change: transform;
+}
+
+/* .flip-card:hover .flip-card-inner {
+      transform: rotateY(180deg);
+} */
+
+.flip-card-front,
+.flip-card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden;
+      /* Safari */
+      backface-visibility: hidden;
+      mask-image: url('./images/cardBack.webp');
+      mask-repeat: no-repeat;
+      mask-size: contain;
+}
+
+.flip-card-front {
+      background-color: transparent;
+}
+
+.flip-card-back {
+      background-color: transparent;
+      transform: rotateY(180deg);
+}
+
+.lineBreak {
+      width: 90%;
+      height: 3px;
+      background: linear-gradient(to right, #0038A8, #9B4F96, #D60270);
+      margin-bottom: 20px;
+      margin-top: 5px;
+}
+
+.titleText {
+      font-size: 40px;
+      font-family: Beleren2016SmallCaps-Bold;
+      margin-top: 20px;
+}
+
+.packCount {
+      display: none;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      font-size: 20px;
+}
+
+.setTitle {
+      display: none;
+      margin-bottom: 10px;
+      margin-top: 5px;
+      font-size: 25px;
+}
+
+.packNum {
+      font-size: 40px;
+}
+
+#continueOpening {
+      display: none;
+}
+
+.button {
+      border: none;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+      background: #212121;
+      border-radius: 10px;
+      width: 100%;
+}
+
+.button:hover {
+      background: #161618;
+}
+
+.buttonText {
+      font-family: Beleren2016-Bold;
+      color: #ffffff;
+      pointer-events: none
+}
+
+.button-container {
+      width: 70%;
+      border-radius: 10px;
+      position: relative;
+      border: 1px solid rgba(0, 0, 0, 0.09);
+      box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.09);
+      margin: 10px;
+}
+
+.button-container .input-bg {
+      position: absolute;
+      inset: -2px;
+      z-index: -1;
+      border-radius: 10px;
+      background: linear-gradient(to right, #0038A8, #9B4F96, #D60270);
+      transform: scaleX(1);
+}
+
+.bottom-elements {
+      margin-top: auto;
+      margin-bottom: 50px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.bottom-element {
+      width: 50%;
+}
+
+.bottom-element .button {
+      padding: 10px 15px;
+}
+
+.hidden-element {
+      display: none;
+}
+
+.input-container {
+      width: 80%;
+      border-radius: 5px;
+      position: relative;
+      border: 1px solid rgba(0, 0, 0, 0.09);
+      box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.09);
+      margin: 10px;
+}
+
+.input-container input {
+      width: 80%;
+      padding: 15px 20px;
+      border: none;
+      outline: none;
+      background: #212121;
+      border-radius: 5px;
+      font-size: 16px;
+      transition: 0.3s ease;
+      font-family: Beleren2016SmallCaps-Bold;
+      color: #ffffff;
+}
+
+.input-container label {
+      font-size: 18px;
+      background: #212121;
+      padding: 0 10px;
+      pointer-events: none;
+      position: absolute;
+      left: 20px;
+      top: 0;
+      transform: translateY(-60%);
+      letter-spacing: 1.5px;
+}
+
+.input-container .input-bg {
+      position: absolute;
+      inset: -2px;
+      z-index: -1;
+      border-radius: 5px;
+      background: linear-gradient(to right, #0038A8, #9B4F96, #D60270);
+      transform: scaleX(1);
+}
+
+.imgcontainer {
+      filter: drop-shadow(-1px 6px 3px rgba(0, 7, 50, 0.5));
+      z-index: 3;
+}
+
+.imgcontainer img {
+      height: 100%;
+      width: 100%;
+}
+
+@font-face {
+      font-family: Beleren2016-Bold;
+      /* set name */
+      src: url(./fonts/Beleren2016-Bold.ttf);
+      /* url of the font */
+}
+
+@font-face {
+      font-family: Beleren2016SmallCaps-Bold;
+      /* set name */
+      src: url(./fonts/Beleren2016SmallCaps-Bold.ttf);
+      /* url of the font */
+}

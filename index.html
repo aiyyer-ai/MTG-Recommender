@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html id="html">
+
+<head>
+      <meta charset="utf-8" />
+
+      <!-- To Do: Come up with Good Name -->
+      <title>MTG Play Booster Simulator</title>
+      <!-- To Do: Come up with Good Name -->
+
+      <!-- References -->
+      <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+      <div class="sideBar" id="options">
+            <span class="titleText" id="titleText">Commander Boxing</span>
+            <div class="lineBreak"></div>
+            <div class="input-container" id="inputDiv">
+                  <label for="setInput">Set</label>
+                  <input list="boosterSets" id="setInput" name="MTGSets">
+                  <div class="input-bg"></div>
+            </div>
+            <div class="setTitle" id="setTitle"></div>
+            <br>
+            <div class="packCount" id="packCount"></div>
+            <div class="button-container" id="packButtons">
+                  <button class="button" id="startOpening" type="button" onclick="openPack()"><span class="buttonText">Start Opening!</span></button>
+                  <button class="button" id="continueOpening" type="button" onclick="nextPack()"><span class="buttonText">Next Pack!</span></button>
+                  <div class="input-bg"></div>
+            </div>
+            <!-- <div class="textBox" id="cardList"></div> -->
+            <div class="button-container">
+                  <button class="button" type="button" onclick="copyListToClipboard()" id="copyButton"><span class="buttonText" id="copyText">Copy Card List</span></button>
+                  <div class="input-bg"></div>
+            </div>
+
+            <!-- <div class="bottom-elements">
+                  <div class="button-container bottom-element" id="singles">
+                        <button class="button" type="button" onclick="setToState(event)" id="singlesButton"><span class="buttonText">Single Pack</span></button>
+                        <div class="input-bg"></div>
+                  </div>
+                  <div class="button-container bottom-element hidden-element" id="boxing">
+                        <button class="button" type="button" onclick="setToState(event)" id="boxingButton"><span class="buttonText">Boxing</span></button>
+                        <div class="input-bg"></div>
+                  </div>
+                  <div class="button-container bottom-element" id="sealed">
+                        <button class="button" type="button" onclick="setToState(event)" id="sealedButton"><span class="buttonText">Sealed</span></button>
+                        <div class="input-bg"></div>
+                  </div>
+            </div> -->
+            
+      </div>
+      <div class="sideBarBorder"></div>
+      <div class="flexContainer" id="allCards"></div>
+      <script src="script.js"></script>
+</body>
+
+</html>
