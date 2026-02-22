@@ -1,0 +1,5346 @@
+{
+  "triggered-ability": {
+    "average": 16,
+    "stdDev": 7.212541147162964
+  },
+  "typal": {
+    "average": 3,
+    "stdDev": 4.244530420715785
+  },
+  "typal-creature": {
+    "average": 3,
+    "stdDev": 4.244530420715785
+  },
+  "activated-ability": {
+    "average": 15,
+    "stdDev": 7.518088318496619
+  },
+  "card-advantage": {
+    "average": 8,
+    "stdDev": 4.316365882851353
+  },
+  "counters-matter": {
+    "average": 1,
+    "stdDev": 3.098587256018391
+  },
+  "tap-outlet": {
+    "average": 1,
+    "stdDev": 1.6308535310614074
+  },
+  "typal-elf": {
+    "average": 0,
+    "stdDev": 1.4886633886959217
+  },
+  "gives-mm-counters": {
+    "average": 0,
+    "stdDev": 2.0765714911794273
+  },
+  "removal": {
+    "average": 5,
+    "stdDev": 3.4511135076468276
+  },
+  "tap-fuel-creature": {
+    "average": 0,
+    "stdDev": 1.5973175689883579
+  },
+  "draw": {
+    "average": 5,
+    "stdDev": 3.5935348031869845
+  },
+  "draw-engine": {
+    "average": 2,
+    "stdDev": 1.940163436927099
+  },
+  "pure-draw": {
+    "average": 4,
+    "stdDev": 2.890788123390992
+  },
+  "repeatable-draw": {
+    "average": 2,
+    "stdDev": 2.350928428246886
+  },
+  "repeatable-pure-draw": {
+    "average": 2,
+    "stdDev": 1.7783672895438802
+  },
+  "leaves-battlefield-trigger": {
+    "average": 1,
+    "stdDev": 2.4219781890089935
+  },
+  "mm-counters-matter": {
+    "average": 0,
+    "stdDev": 1.2481341326762776
+  },
+  "typal-choose": {
+    "average": 0,
+    "stdDev": 0.9368599124679284
+  },
+  "typal-army": {
+    "average": 0,
+    "stdDev": 0.6791959489934476
+  },
+  "gives-pp-counters": {
+    "average": 2,
+    "stdDev": 2.672009566655463
+  },
+  "gives-evasion": {
+    "average": 1,
+    "stdDev": 1.5219919522805423
+  },
+  "power-matters": {
+    "average": 1,
+    "stdDev": 2.441619875878283
+  },
+  "burn": {
+    "average": 2,
+    "stdDev": 3.136128940486225
+  },
+  "removal-creature": {
+    "average": 4,
+    "stdDev": 3.2551544468942675
+  },
+  "spot-removal": {
+    "average": 3,
+    "stdDev": 2.6186365570278602
+  },
+  "control-changing-effects": {
+    "average": 0,
+    "stdDev": 1.6296237653765462
+  },
+  "flavors-of-vanilla": {
+    "average": 1,
+    "stdDev": 2.5331008348692077
+  },
+  "theft": {
+    "average": 0,
+    "stdDev": 1.4594560729495376
+  },
+  "evasion": {
+    "average": 3,
+    "stdDev": 3.193583809157146
+  },
+  "cheaper-than-mv": {
+    "average": 2,
+    "stdDev": 2.7412286301157294
+  },
+  "hate": {
+    "average": 3,
+    "stdDev": 2.241172651011953
+  },
+  "cast-trigger": {
+    "average": 2,
+    "stdDev": 2.40524103629187
+  },
+  "saboteur": {
+    "average": 1,
+    "stdDev": 1.6271614457358476
+  },
+  "virtual-vanilla": {
+    "average": 0,
+    "stdDev": 1.4070363902074756
+  },
+  "typal-coupling": {
+    "average": 0,
+    "stdDev": 0.9666138948992765
+  },
+  "typal-goblin": {
+    "average": 0,
+    "stdDev": 1.0003006765289697
+  },
+  "typal-orc": {
+    "average": 0,
+    "stdDev": 0.21797714027125414
+  },
+  "tutor": {
+    "average": 2,
+    "stdDev": 3.0302868398877343
+  },
+  "tutor-land": {
+    "average": 1,
+    "stdDev": 2.5110022535955934
+  },
+  "tutor-to": {
+    "average": 2,
+    "stdDev": 3.015164825581018
+  },
+  "activate-from-hand": {
+    "average": 0,
+    "stdDev": 1.6436190436184746
+  },
+  "mana-sink": {
+    "average": 1,
+    "stdDev": 1.2789157521912407
+  },
+  "burst-draw": {
+    "average": 0,
+    "stdDev": 1.1149814530913824
+  },
+  "discard-outlet": {
+    "average": 1,
+    "stdDev": 1.7700620008260286
+  },
+  "gives-skulk": {
+    "average": 0,
+    "stdDev": 0.6982622490183541
+  },
+  "the-ring-tempts-you": {
+    "average": 0,
+    "stdDev": 0.6969690366230246
+  },
+  "type-change": {
+    "average": 1,
+    "stdDev": 2.303047909013381
+  },
+  "intervening-if-clause": {
+    "average": 2,
+    "stdDev": 2.0687366219280245
+  },
+  "burn-creature": {
+    "average": 1,
+    "stdDev": 1.998746600029807
+  },
+  "reflexive-trigger": {
+    "average": 0,
+    "stdDev": 0.3815092637985004
+  },
+  "removal-burn": {
+    "average": 1,
+    "stdDev": 2.090451618940442
+  },
+  "recursion": {
+    "average": 2,
+    "stdDev": 2.6892670334545326
+  },
+  "noncreature-typal": {
+    "average": 1,
+    "stdDev": 2.3929988433583405
+  },
+  "ramp": {
+    "average": 5,
+    "stdDev": 3.841355806826952
+  },
+  "removal-destroy": {
+    "average": 1,
+    "stdDev": 1.6821686178922886
+  },
+  "mill": {
+    "average": 1,
+    "stdDev": 2.726433614929195
+  },
+  "mill-self": {
+    "average": 1,
+    "stdDev": 2.327122083876098
+  },
+  "synergy-instant": {
+    "average": 0,
+    "stdDev": 1.4851240433775637
+  },
+  "synergy-sorcery": {
+    "average": 0,
+    "stdDev": 1.4774094126457222
+  },
+  "burn-player": {
+    "average": 1,
+    "stdDev": 2.656451800202729
+  },
+  "cast-trigger-you": {
+    "average": 1,
+    "stdDev": 2.2490753691325005
+  },
+  "synergy-legendary": {
+    "average": 0,
+    "stdDev": 1.5837043558594652
+  },
+  "utility-land": {
+    "average": 3,
+    "stdDev": 2.4358448259358583
+  },
+  "repeatable-token-generator": {
+    "average": 2,
+    "stdDev": 2.666564335780492
+  },
+  "repeatable-artifact-tokens": {
+    "average": 1,
+    "stdDev": 1.5375218816288665
+  },
+  "repeatable-noncreature-tokens": {
+    "average": 0,
+    "stdDev": 1.6270998400019596
+  },
+  "repeatable-treasures": {
+    "average": 0,
+    "stdDev": 1.2196598576669522
+  },
+  "life-payment": {
+    "average": 3,
+    "stdDev": 3.089742971172032
+  },
+  "synergy-artifact": {
+    "average": 1,
+    "stdDev": 3.036053736926343
+  },
+  "conditional-tapland": {
+    "average": 1,
+    "stdDev": 2.1527243514020755
+  },
+  "attack-trigger": {
+    "average": 2,
+    "stdDev": 2.3920980580834827
+  },
+  "lifegain": {
+    "average": 2,
+    "stdDev": 3.2613689865452757
+  },
+  "repeatable-lifegain": {
+    "average": 1,
+    "stdDev": 2.437901571798391
+  },
+  "synergy-treasure": {
+    "average": 0,
+    "stdDev": 0.43526393287179405
+  },
+  "gives-castable-from-nonhand": {
+    "average": 1,
+    "stdDev": 2.1750065674761894
+  },
+  "synergy-attacker": {
+    "average": 1,
+    "stdDev": 1.9267354626162272
+  },
+  "death-trigger": {
+    "average": 1,
+    "stdDev": 2.274161900489746
+  },
+  "gives-indestructible": {
+    "average": 0,
+    "stdDev": 1.092457923379409
+  },
+  "refund": {
+    "average": 1,
+    "stdDev": 1.7052503949222584
+  },
+  "combat-ramp": {
+    "average": 0,
+    "stdDev": 1.0489713141755173
+  },
+  "recursion-creature": {
+    "average": 1,
+    "stdDev": 1.4563620349708966
+  },
+  "repeatable-crime": {
+    "average": 1,
+    "stdDev": 1.7734283508157709
+  },
+  "combat-trick": {
+    "average": 1,
+    "stdDev": 1.5259385217278654
+  },
+  "protects-creature": {
+    "average": 1,
+    "stdDev": 1.9110901174588595
+  },
+  "power-boost-to-all": {
+    "average": 1,
+    "stdDev": 1.555379726827859
+  },
+  "sacrifice-outlet": {
+    "average": 1,
+    "stdDev": 2.3866652069244787
+  },
+  "synergy-attacker-self": {
+    "average": 1,
+    "stdDev": 1.687790487041432
+  },
+  "red-effect": {
+    "average": 0,
+    "stdDev": 1.6058920681050037
+  },
+  "creaturefall": {
+    "average": 0,
+    "stdDev": 1.422588140271251
+  },
+  "thingfall": {
+    "average": 1,
+    "stdDev": 2.0945953287015713
+  },
+  "exile-self": {
+    "average": 1,
+    "stdDev": 1.718717421503591
+  },
+  "gives-haste": {
+    "average": 0,
+    "stdDev": 1.8036928616185541
+  },
+  "impulse": {
+    "average": 0,
+    "stdDev": 0.8967888003123576
+  },
+  "removal-planeswalker": {
+    "average": 1,
+    "stdDev": 1.9283995799251912
+  },
+  "sweeper": {
+    "average": 0,
+    "stdDev": 1.2615941850415107
+  },
+  "free-sacrifice-outlet": {
+    "average": 0,
+    "stdDev": 0.3989762359947425
+  },
+  "mana-producer": {
+    "average": 2,
+    "stdDev": 2.0637397248598757
+  },
+  "toughness-boost-to-all": {
+    "average": 1,
+    "stdDev": 1.2669065179010803
+  },
+  "death-trigger-self": {
+    "average": 0,
+    "stdDev": 1.07278239590586
+  },
+  "modal": {
+    "average": 0,
+    "stdDev": 1.4167629729675222
+  },
+  "gives-castable-from-exile": {
+    "average": 1,
+    "stdDev": 1.825403252127844
+  },
+  "gives-hexproof": {
+    "average": 0,
+    "stdDev": 0.6718506679076259
+  },
+  "reanimate": {
+    "average": 1,
+    "stdDev": 1.8674232103816244
+  },
+  "reanimate-creature": {
+    "average": 0,
+    "stdDev": 1.340003530857477
+  },
+  "synergy-historic": {
+    "average": 0,
+    "stdDev": 0.3135857241894104
+  },
+  "synergy-saga": {
+    "average": 0,
+    "stdDev": 0.4235925324181826
+  },
+  "boltland": {
+    "average": 0,
+    "stdDev": 0.879235652597594
+  },
+  "artifactfall": {
+    "average": 0,
+    "stdDev": 0.3893118968220947
+  },
+  "dual-land": {
+    "average": 2,
+    "stdDev": 2.4453530222379105
+  },
+  "rummage": {
+    "average": 0,
+    "stdDev": 0.797701187942319
+  },
+  "burn-planeswalker": {
+    "average": 0,
+    "stdDev": 1.309433112527264
+  },
+  "more-expensive-than-mv": {
+    "average": 0,
+    "stdDev": 1.3377574623478508
+  },
+  "hand-neutral": {
+    "average": 1,
+    "stdDev": 2.023444188338282
+  },
+  "burn-any": {
+    "average": 0,
+    "stdDev": 0.8891554610084892
+  },
+  "burn-battle": {
+    "average": 0,
+    "stdDev": 0.9001358714154332
+  },
+  "change-target": {
+    "average": 0,
+    "stdDev": 0.3234983196103153
+  },
+  "removal-artifact": {
+    "average": 1,
+    "stdDev": 1.6430395581284645
+  },
+  "synergy-mountain": {
+    "average": 0,
+    "stdDev": 0.2980153545771644
+  },
+  "gives-trample": {
+    "average": 0,
+    "stdDev": 1.0347800962689233
+  },
+  "tapland": {
+    "average": 1,
+    "stdDev": 1.9956096559591752
+  },
+  "delayed-trigger": {
+    "average": 1,
+    "stdDev": 1.896769507070135
+  },
+  "copy": {
+    "average": 1,
+    "stdDev": 2.021858300269156
+  },
+  "hand-negative": {
+    "average": 0,
+    "stdDev": 0.38802235403821783
+  },
+  "multiple-targets": {
+    "average": 1,
+    "stdDev": 1.5250842983523876
+  },
+  "energy-generator": {
+    "average": 0,
+    "stdDev": 1.1158352081325
+  },
+  "counter-fuel": {
+    "average": 0,
+    "stdDev": 1.112055755440211
+  },
+  "counter-fuel-energy": {
+    "average": 0,
+    "stdDev": 0.8207415427721915
+  },
+  "remove-counters": {
+    "average": 0,
+    "stdDev": 1.1912202203926585
+  },
+  "remove-counters-player": {
+    "average": 0,
+    "stdDev": 0.8207415427721915
+  },
+  "remove-counters-you": {
+    "average": 0,
+    "stdDev": 1.190546834120423
+  },
+  "repeatable-creature-tokens": {
+    "average": 1,
+    "stdDev": 2.2892307410406976
+  },
+  "draft-signpost": {
+    "average": 0,
+    "stdDev": 1.195126766150439
+  },
+  "hand-positive": {
+    "average": 1,
+    "stdDev": 1.2812258564627257
+  },
+  "free-cast-another": {
+    "average": 0,
+    "stdDev": 1.1083538585948394
+  },
+  "mana-rock": {
+    "average": 1,
+    "stdDev": 1.3027175346714026
+  },
+  "copy-artifact": {
+    "average": 0,
+    "stdDev": 0.42888396974334064
+  },
+  "lands-matter": {
+    "average": 1,
+    "stdDev": 1.7758572029114046
+  },
+  "blue-effect": {
+    "average": 1,
+    "stdDev": 2.50810634420497
+  },
+  "cast-on-resolution": {
+    "average": 0,
+    "stdDev": 1.1641101175050521
+  },
+  "sacrifice-self": {
+    "average": 1,
+    "stdDev": 2.3549756228977534
+  },
+  "synergy-artifact-creature": {
+    "average": 0,
+    "stdDev": 0.7963806458719892
+  },
+  "cost-ignorer": {
+    "average": 0,
+    "stdDev": 1.2740863040565356
+  },
+  "curiosity-like": {
+    "average": 0,
+    "stdDev": 0.789744814793985
+  },
+  "unblockable": {
+    "average": 0,
+    "stdDev": 0.35156312650305044
+  },
+  "curiosity": {
+    "average": 0,
+    "stdDev": 0.5590618215266473
+  },
+  "mill-exile": {
+    "average": 0,
+    "stdDev": 0.5508431970593736
+  },
+  "mill-opponent": {
+    "average": 0,
+    "stdDev": 1.4559145748973585
+  },
+  "slith-ability": {
+    "average": 0,
+    "stdDev": 0.10967620200520753
+  },
+  "untapper": {
+    "average": 0,
+    "stdDev": 1.3854264959866607
+  },
+  "untapper-creature": {
+    "average": 0,
+    "stdDev": 1.0662685537466166
+  },
+  "clone": {
+    "average": 0,
+    "stdDev": 0.6610209352391031
+  },
+  "copy-creature": {
+    "average": 0,
+    "stdDev": 1.374092979254872
+  },
+  "bounce": {
+    "average": 0,
+    "stdDev": 1.5016363701948288
+  },
+  "landfall": {
+    "average": 0,
+    "stdDev": 1.425368732101939
+  },
+  "library-manipulation": {
+    "average": 1,
+    "stdDev": 1.6672947226153347
+  },
+  "top-deck-manipulation": {
+    "average": 1,
+    "stdDev": 1.6065161517863058
+  },
+  "removal-aura": {
+    "average": 0,
+    "stdDev": 1.0947036597391786
+  },
+  "removal-battle": {
+    "average": 0,
+    "stdDev": 1.1059092569841522
+  },
+  "removal-bounce": {
+    "average": 0,
+    "stdDev": 0.8790646228045806
+  },
+  "removal-enchantment": {
+    "average": 1,
+    "stdDev": 1.5060024249414177
+  },
+  "removal-equipment": {
+    "average": 0,
+    "stdDev": 1.0951156413104612
+  },
+  "removal-nonland": {
+    "average": 0,
+    "stdDev": 0.7333421423008626
+  },
+  "removal-spacecraft": {
+    "average": 0,
+    "stdDev": 1.088551269016147
+  },
+  "removal-vehicle": {
+    "average": 0,
+    "stdDev": 1.090759099430841
+  },
+  "drawback": {
+    "average": 1,
+    "stdDev": 1.5081308633146253
+  },
+  "counterspell": {
+    "average": 1,
+    "stdDev": 1.322799878607958
+  },
+  "peek": {
+    "average": 1,
+    "stdDev": 1.5505062939059167
+  },
+  "peek-library": {
+    "average": 1,
+    "stdDev": 1.5002672843927132
+  },
+  "tutor-to-hand": {
+    "average": 0,
+    "stdDev": 1.2987872944585626
+  },
+  "discount-self": {
+    "average": 0,
+    "stdDev": 0.979900245319832
+  },
+  "type-errata": {
+    "average": 0,
+    "stdDev": 1.0171445321084291
+  },
+  "tax": {
+    "average": 0,
+    "stdDev": 0.954456058329285
+  },
+  "cost-reducer": {
+    "average": 0,
+    "stdDev": 1.0889195516179098
+  },
+  "mana-value-matters": {
+    "average": 0,
+    "stdDev": 1.3619661833257295
+  },
+  "synergy-blue": {
+    "average": 0,
+    "stdDev": 0.4042179376756219
+  },
+  "synergy-island": {
+    "average": 0,
+    "stdDev": 0.26394545134000585
+  },
+  "hand-size-increase": {
+    "average": 0,
+    "stdDev": 0.3023564230767752
+  },
+  "repeatable-removal": {
+    "average": 1,
+    "stdDev": 1.3039481100169132
+  },
+  "cheat-death": {
+    "average": 0,
+    "stdDev": 1.376279750007488
+  },
+  "cards-in-graveyard-matter": {
+    "average": 0,
+    "stdDev": 1.0113133100412353
+  },
+  "cheat-death-self": {
+    "average": 0,
+    "stdDev": 0.22320297256243182
+  },
+  "gains-pp-counters": {
+    "average": 1,
+    "stdDev": 1.8448763006106754
+  },
+  "virtual-french-vanilla": {
+    "average": 0,
+    "stdDev": 1.2314379621772502
+  },
+  "undergrowth": {
+    "average": 0,
+    "stdDev": 0.3607107836573118
+  },
+  "french-vanilla": {
+    "average": 0,
+    "stdDev": 0.6812590353866217
+  },
+  "removal-toughness": {
+    "average": 0,
+    "stdDev": 1.5546384021203237
+  },
+  "castable-from-nonhand": {
+    "average": 0,
+    "stdDev": 1.5631905050030968
+  },
+  "discard-matters": {
+    "average": 0,
+    "stdDev": 0.9062400623020652
+  },
+  "castable-from-exile": {
+    "average": 0,
+    "stdDev": 1.1930280626623666
+  },
+  "unexile": {
+    "average": 0,
+    "stdDev": 1.217027021660359
+  },
+  "discard-hand": {
+    "average": 0,
+    "stdDev": 0.5849111818194981
+  },
+  "castable-from-graveyard": {
+    "average": 0,
+    "stdDev": 0.6122087216344019
+  },
+  "hand-size-matters": {
+    "average": 0,
+    "stdDev": 0.3788726788993359
+  },
+  "repeatable-rummage": {
+    "average": 0,
+    "stdDev": 0.3100495342891374
+  },
+  "madness": {
+    "average": 0,
+    "stdDev": 0.5045899984737543
+  },
+  "self-discard-matters": {
+    "average": 0,
+    "stdDev": 0.6853665775550416
+  },
+  "untapper-land": {
+    "average": 0,
+    "stdDev": 0.6600345061573403
+  },
+  "recursion-instant": {
+    "average": 0,
+    "stdDev": 0.20616014360576032
+  },
+  "recursion-sorcery": {
+    "average": 0,
+    "stdDev": 0.20616014360576032
+  },
+  "untapper-artifact": {
+    "average": 0,
+    "stdDev": 0.42583471499019176
+  },
+  "tapper": {
+    "average": 0,
+    "stdDev": 1.1543821879108487
+  },
+  "tapper-land": {
+    "average": 0,
+    "stdDev": 0.1422975636893218
+  },
+  "regrowth": {
+    "average": 0,
+    "stdDev": 1.1377199021647977
+  },
+  "regrowth-instant": {
+    "average": 0,
+    "stdDev": 0.14951136664821454
+  },
+  "regrowth-sorcery": {
+    "average": 0,
+    "stdDev": 0.14951136664821454
+  },
+  "untapper-nonland": {
+    "average": 0,
+    "stdDev": 0.275648975435027
+  },
+  "untapper-permanent": {
+    "average": 0,
+    "stdDev": 0.2680904585873309
+  },
+  "tapper-artifact": {
+    "average": 0,
+    "stdDev": 0.1907546318992502
+  },
+  "tapper-creature": {
+    "average": 0,
+    "stdDev": 1.1349411523980333
+  },
+  "twiddle": {
+    "average": 0,
+    "stdDev": 0.17049858486761837
+  },
+  "manaless-value": {
+    "average": 0,
+    "stdDev": 1.1685363259857846
+  },
+  "counterspell-free": {
+    "average": 0,
+    "stdDev": 0.4146234318228043
+  },
+  "synergy-forest": {
+    "average": 0,
+    "stdDev": 0.40222915346921506
+  },
+  "multiplayer": {
+    "average": 0,
+    "stdDev": 0.8702399451583213
+  },
+  "fetchland": {
+    "average": 1,
+    "stdDev": 1.359055877773016
+  },
+  "manaless-land": {
+    "average": 1,
+    "stdDev": 1.2958511304797622
+  },
+  "tutor-land-to-battlefield": {
+    "average": 1,
+    "stdDev": 2.2287039037560556
+  },
+  "tutor-to-battlefield": {
+    "average": 1,
+    "stdDev": 2.5079464725592
+  },
+  "typal-merfolk": {
+    "average": 0,
+    "stdDev": 1.0381167793046875
+  },
+  "anthem": {
+    "average": 0,
+    "stdDev": 0.9343957561064108
+  },
+  "synergy-explore": {
+    "average": 0,
+    "stdDev": 0.1274322311524348
+  },
+  "gives-unblockable": {
+    "average": 0,
+    "stdDev": 0.5685735326841775
+  },
+  "pp-counters-matter": {
+    "average": 0,
+    "stdDev": 1.5248871019248211
+  },
+  "sacrifice-outlet-creature": {
+    "average": 1,
+    "stdDev": 1.6917650444187695
+  },
+  "tutor-creature": {
+    "average": 0,
+    "stdDev": 0.7968839675502153
+  },
+  "multiple-bodies": {
+    "average": 0,
+    "stdDev": 1.4322091100967433
+  },
+  "sacrifice-outlet-land": {
+    "average": 0,
+    "stdDev": 1.1257181615796845
+  },
+  "recursion-land": {
+    "average": 0,
+    "stdDev": 0.8362285978384276
+  },
+  "lands-in-graveyard-matter": {
+    "average": 0,
+    "stdDev": 0.18325008437711052
+  },
+  "reanimate-land": {
+    "average": 0,
+    "stdDev": 0.7114173706204602
+  },
+  "tutor-land-any": {
+    "average": 0,
+    "stdDev": 0.45120794836794376
+  },
+  "extra-land": {
+    "average": 0,
+    "stdDev": 1.0083850539356491
+  },
+  "play-additional-land": {
+    "average": 0,
+    "stdDev": 0.6213909430381293
+  },
+  "mulch": {
+    "average": 0,
+    "stdDev": 0.4315634284582956
+  },
+  "copy-land": {
+    "average": 0,
+    "stdDev": 0.10967620200520753
+  },
+  "reanimate-cast": {
+    "average": 0,
+    "stdDev": 0.3143838566185064
+  },
+  "animate": {
+    "average": 0,
+    "stdDev": 1.943235135205638
+  },
+  "animate-self": {
+    "average": 0,
+    "stdDev": 1.1008216658551186
+  },
+  "surveil": {
+    "average": 0,
+    "stdDev": 1.0556393791428553
+  },
+  "synergy-surveil": {
+    "average": 0,
+    "stdDev": 0.1999899756910445
+  },
+  "reanimate-from-any": {
+    "average": 0,
+    "stdDev": 0.2787228865269902
+  },
+  "reanimate-from-opponent": {
+    "average": 0,
+    "stdDev": 0.40767496526710256
+  },
+  "tutor-land-swamp": {
+    "average": 0,
+    "stdDev": 0.3900835762647944
+  },
+  "type-cycling": {
+    "average": 0,
+    "stdDev": 0.23945273075209464
+  },
+  "group-slug": {
+    "average": 1,
+    "stdDev": 1.9231423096650275
+  },
+  "opponent-loses-life": {
+    "average": 1,
+    "stdDev": 1.628793148650441
+  },
+  "recursion-self": {
+    "average": 0,
+    "stdDev": 0.5427771706111523
+  },
+  "regrowth-self": {
+    "average": 0,
+    "stdDev": 0.2027279870371813
+  },
+  "animate-land": {
+    "average": 0,
+    "stdDev": 1.294186929132763
+  },
+  "sneak": {
+    "average": 0,
+    "stdDev": 0.7023417126407604
+  },
+  "recursion-artifact": {
+    "average": 0,
+    "stdDev": 0.42311897997006254
+  },
+  "type-addition-from-none": {
+    "average": 0,
+    "stdDev": 0.11589752960994143
+  },
+  "type-errata-addition": {
+    "average": 0,
+    "stdDev": 0.5749725421427735
+  },
+  "typal-elemental": {
+    "average": 0,
+    "stdDev": 1.2116200954977403
+  },
+  "restricted-mana": {
+    "average": 0,
+    "stdDev": 0.8187850643213601
+  },
+  "rainbow-land": {
+    "average": 0,
+    "stdDev": 0.9077320893912838
+  },
+  "mana-dork": {
+    "average": 1,
+    "stdDev": 1.2716844085557995
+  },
+  "triland": {
+    "average": 0,
+    "stdDev": 0.6203414999690099
+  },
+  "sneak-from-library": {
+    "average": 0,
+    "stdDev": 0.42829926058292245
+  },
+  "adds-multiple-mana": {
+    "average": 1,
+    "stdDev": 1.5768536780731834
+  },
+  "temporary-token": {
+    "average": 0,
+    "stdDev": 1.0343925381668395
+  },
+  "recursion-any": {
+    "average": 0,
+    "stdDev": 0.1660305959185673
+  },
+  "pitch-spell": {
+    "average": 0,
+    "stdDev": 0.22162554662990822
+  },
+  "command": {
+    "average": 0,
+    "stdDev": 0.08195192910995826
+  },
+  "impulse-land": {
+    "average": 0,
+    "stdDev": 0.238403874502296
+  },
+  "impulse-onto-battlefield": {
+    "average": 0,
+    "stdDev": 0.19336425565464704
+  },
+  "impulse-to-zone": {
+    "average": 0,
+    "stdDev": 0.25876766740391816
+  },
+  "graveyard-fuel-self": {
+    "average": 0,
+    "stdDev": 0.4112248217820993
+  },
+  "shardland": {
+    "average": 0,
+    "stdDev": 0.29700455905497253
+  },
+  "gives-lifelink": {
+    "average": 0,
+    "stdDev": 0.5185028722664093
+  },
+  "synergy-planeswalker": {
+    "average": 0,
+    "stdDev": 0.6626112955190839
+  },
+  "passive-ability": {
+    "average": 0,
+    "stdDev": 0.27069514600185485
+  },
+  "symmetrical": {
+    "average": 0,
+    "stdDev": 1.3666317857604666
+  },
+  "virtual-proliferate": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "utility-mana-rock": {
+    "average": 0,
+    "stdDev": 0.6992664273991496
+  },
+  "removal-exile": {
+    "average": 0,
+    "stdDev": 0.9956803253779938
+  },
+  "virtual-legendary": {
+    "average": 0,
+    "stdDev": 0.7019134119325845
+  },
+  "pillowfort": {
+    "average": 0,
+    "stdDev": 0.18488384701896615
+  },
+  "hate-attacker": {
+    "average": 0,
+    "stdDev": 0.36745619839454685
+  },
+  "synergy-noncreature": {
+    "average": 0,
+    "stdDev": 1.3140563861746997
+  },
+  "pinger": {
+    "average": 0,
+    "stdDev": 0.9994986714479128
+  },
+  "enrage": {
+    "average": 0,
+    "stdDev": 0.493034887366386
+  },
+  "burn-player-each": {
+    "average": 0,
+    "stdDev": 0.19414030260879084
+  },
+  "nonbasic-basic-land-type": {
+    "average": 1,
+    "stdDev": 1.4808995077468652
+  },
+  "shockland": {
+    "average": 0,
+    "stdDev": 0.9380895633516484
+  },
+  "typal-zombie": {
+    "average": 0,
+    "stdDev": 0.8193969656580326
+  },
+  "typal-dragon": {
+    "average": 0,
+    "stdDev": 1.4815762429225916
+  },
+  "tutor-creature-dragon": {
+    "average": 0,
+    "stdDev": 0.1383688920266171
+  },
+  "dnd": {
+    "average": 0,
+    "stdDev": 1.13219985144349
+  },
+  "hate-counterspell": {
+    "average": 0,
+    "stdDev": 0.4519848412415056
+  },
+  "synergy-color-each": {
+    "average": 0,
+    "stdDev": 0.3244265806850789
+  },
+  "ferocious": {
+    "average": 0,
+    "stdDev": 0.6855859299618597
+  },
+  "power-matters-individual": {
+    "average": 0,
+    "stdDev": 0.774363696154082
+  },
+  "synergy-equipment": {
+    "average": 0,
+    "stdDev": 1.398138583831745
+  },
+  "quick-attach": {
+    "average": 0,
+    "stdDev": 1.0247537697870952
+  },
+  "quick-equip": {
+    "average": 0,
+    "stdDev": 0.9965356993908371
+  },
+  "synergy-aura": {
+    "average": 0,
+    "stdDev": 0.8845211735710963
+  },
+  "threaten": {
+    "average": 0,
+    "stdDev": 0.40359749534877487
+  },
+  "cast-trigger-self": {
+    "average": 0,
+    "stdDev": 0.7092300172169617
+  },
+  "synergy-colorless": {
+    "average": 0,
+    "stdDev": 0.8392200526155873
+  },
+  "sol-land": {
+    "average": 0,
+    "stdDev": 0.0986069774732772
+  },
+  "gains-haste": {
+    "average": 0,
+    "stdDev": 0.3953164051039957
+  },
+  "coin-flip": {
+    "average": 0,
+    "stdDev": 0.7377032564840046
+  },
+  "copy-instant": {
+    "average": 0,
+    "stdDev": 0.5403709854577863
+  },
+  "copy-sorcery": {
+    "average": 0,
+    "stdDev": 0.5340266310423009
+  },
+  "clash-like": {
+    "average": 0,
+    "stdDev": 0.3482687161327129
+  },
+  "black-effect": {
+    "average": 0,
+    "stdDev": 1.7666324962777546
+  },
+  "precognition": {
+    "average": 0,
+    "stdDev": 0.16842827375521127
+  },
+  "synergy-dungeon": {
+    "average": 0,
+    "stdDev": 0.28529870107872785
+  },
+  "tutor-land-basic": {
+    "average": 0,
+    "stdDev": 1.597035143947185
+  },
+  "removal-sacrifice": {
+    "average": 0,
+    "stdDev": 1.0960306014845285
+  },
+  "loot": {
+    "average": 0,
+    "stdDev": 0.9602149919647711
+  },
+  "bottom-deck-manipulation": {
+    "average": 0,
+    "stdDev": 0.9363783051699474
+  },
+  "scry": {
+    "average": 0,
+    "stdDev": 0.8783231088617361
+  },
+  "take-the-initiative": {
+    "average": 0,
+    "stdDev": 0.3532697536518355
+  },
+  "hand-disruption": {
+    "average": 0,
+    "stdDev": 1.2137692391216757
+  },
+  "repeatable-loot": {
+    "average": 0,
+    "stdDev": 0.6191283937302627
+  },
+  "bounceland": {
+    "average": 0,
+    "stdDev": 0.16931864968844265
+  },
+  "rescue": {
+    "average": 0,
+    "stdDev": 0.953615498009184
+  },
+  "rescue-land": {
+    "average": 0,
+    "stdDev": 0.31597407342404354
+  },
+  "cantrip": {
+    "average": 0,
+    "stdDev": 1.103095811289901
+  },
+  "painland": {
+    "average": 0,
+    "stdDev": 0.6162071949735163
+  },
+  "titan-trigger": {
+    "average": 0,
+    "stdDev": 0.19439829648023824
+  },
+  "repeatable-impulse": {
+    "average": 0,
+    "stdDev": 0.317714119024361
+  },
+  "typal-rogue": {
+    "average": 0,
+    "stdDev": 0.6566848284477054
+  },
+  "typal-warrior": {
+    "average": 0,
+    "stdDev": 0.6550800804392483
+  },
+  "synergy-party": {
+    "average": 0,
+    "stdDev": 0.5737508659119596
+  },
+  "typal-cleric": {
+    "average": 0,
+    "stdDev": 0.6084311401345966
+  },
+  "typal-wizard": {
+    "average": 0,
+    "stdDev": 0.7250943582652755
+  },
+  "self-replacement-effect": {
+    "average": 0,
+    "stdDev": 0.4254814716983816
+  },
+  "gives-protection": {
+    "average": 0,
+    "stdDev": 0.34999140784504534
+  },
+  "typal-soldier": {
+    "average": 0,
+    "stdDev": 0.24091345812622258
+  },
+  "typal-human": {
+    "average": 0,
+    "stdDev": 0.5470999580275775
+  },
+  "creature-count-matters": {
+    "average": 0,
+    "stdDev": 0.7099363514396407
+  },
+  "synergy-enchantment": {
+    "average": 0,
+    "stdDev": 1.307939483945949
+  },
+  "enchantmentfall": {
+    "average": 0,
+    "stdDev": 0.4937459713274479
+  },
+  "synergy-room": {
+    "average": 0,
+    "stdDev": 0.25368179020504394
+  },
+  "recursion-enchantment": {
+    "average": 0,
+    "stdDev": 0.23480272051692494
+  },
+  "copy-enchantment": {
+    "average": 0,
+    "stdDev": 0.16205872785832964
+  },
+  "typal-wolf": {
+    "average": 0,
+    "stdDev": 0.4657473665655132
+  },
+  "typal-lupine": {
+    "average": 0,
+    "stdDev": 0.3885386847443932
+  },
+  "typal-werewolf": {
+    "average": 0,
+    "stdDev": 0.45902689862882273
+  },
+  "enters-in-company": {
+    "average": 0,
+    "stdDev": 0.6819943394704735
+  },
+  "face-up-face-down-effects": {
+    "average": 0,
+    "stdDev": 1.0974472822370533
+  },
+  "synergy-face-down": {
+    "average": 0,
+    "stdDev": 0.31944468657135117
+  },
+  "turn-face-up-trigger": {
+    "average": 0,
+    "stdDev": 0.24380865938217897
+  },
+  "sneak-land": {
+    "average": 0,
+    "stdDev": 0.2880958140539028
+  },
+  "maro-sorcerer": {
+    "average": 0,
+    "stdDev": 0.2333037366191315
+  },
+  "extra-combat-phase": {
+    "average": 0,
+    "stdDev": 0.32132194868588965
+  },
+  "lifegain-matters": {
+    "average": 0,
+    "stdDev": 1.3187774708578932
+  },
+  "pridemate": {
+    "average": 0,
+    "stdDev": 0.39506275322988244
+  },
+  "hate-color": {
+    "average": 0,
+    "stdDev": 0.559689024664941
+  },
+  "hate-color-choose": {
+    "average": 0,
+    "stdDev": 0.14508797762393136
+  },
+  "synergy-white": {
+    "average": 0,
+    "stdDev": 0.3751503307336393
+  },
+  "group-hug": {
+    "average": 0,
+    "stdDev": 1.397744201650572
+  },
+  "egg": {
+    "average": 0,
+    "stdDev": 0.720865558316946
+  },
+  "french-vanilla-equipment": {
+    "average": 0,
+    "stdDev": 0.17769575649548755
+  },
+  "gives-vigilance": {
+    "average": 0,
+    "stdDev": 0.37206482952529557
+  },
+  "tutor-card": {
+    "average": 0,
+    "stdDev": 0.63826147188718
+  },
+  "mill-any": {
+    "average": 0,
+    "stdDev": 0.46153139323849596
+  },
+  "force-draw": {
+    "average": 0,
+    "stdDev": 0.9867303218952755
+  },
+  "synergy-mill": {
+    "average": 0,
+    "stdDev": 0.5426848223041273
+  },
+  "exchange-control": {
+    "average": 0,
+    "stdDev": 0.22786974148799558
+  },
+  "flicker": {
+    "average": 0,
+    "stdDev": 1.0343925381668395
+  },
+  "flicker-creature": {
+    "average": 0,
+    "stdDev": 1.0087329185877212
+  },
+  "theft-creature": {
+    "average": 0,
+    "stdDev": 0.3090780973291324
+  },
+  "indefinite-effect": {
+    "average": 0,
+    "stdDev": 0.35510934421842943
+  },
+  "untracked-indefinite-effect": {
+    "average": 0,
+    "stdDev": 0.3492746522128799
+  },
+  "copy-legendary": {
+    "average": 0,
+    "stdDev": 0.34812477369377554
+  },
+  "enchantment-engine": {
+    "average": 0,
+    "stdDev": 0.2415367798876444
+  },
+  "cost-reducer-enchantment": {
+    "average": 0,
+    "stdDev": 0.15282687764550482
+  },
+  "impact-effect": {
+    "average": 0,
+    "stdDev": 0.42630525073041353
+  },
+  "synergy-token": {
+    "average": 0,
+    "stdDev": 1.1939519466889803
+  },
+  "token-increaser": {
+    "average": 0,
+    "stdDev": 0.40890253493881706
+  },
+  "damage-multiplier": {
+    "average": 0,
+    "stdDev": 0.20567334211505453
+  },
+  "hatebear": {
+    "average": 0,
+    "stdDev": 0.3815092637985004
+  },
+  "typal-angel": {
+    "average": 0,
+    "stdDev": 0.25249357856650845
+  },
+  "multi-removal": {
+    "average": 0,
+    "stdDev": 1.0161585445442856
+  },
+  "combat-manipulation": {
+    "average": 0,
+    "stdDev": 0.6945197321747686
+  },
+  "force-attacker": {
+    "average": 0,
+    "stdDev": 0.6417854255730236
+  },
+  "donate-token": {
+    "average": 0,
+    "stdDev": 0.7654450828240827
+  },
+  "damage-prevention": {
+    "average": 0,
+    "stdDev": 0.6962495473875511
+  },
+  "life-for-cards": {
+    "average": 0,
+    "stdDev": 0.9532475197982966
+  },
+  "removal-land": {
+    "average": 0,
+    "stdDev": 0.7462818823709257
+  },
+  "discard": {
+    "average": 0,
+    "stdDev": 1.181503398502779
+  },
+  "opponent-discard-matters": {
+    "average": 0,
+    "stdDev": 0.3334168566835964
+  },
+  "draw-hate": {
+    "average": 0,
+    "stdDev": 0.4940504082927593
+  },
+  "wheel": {
+    "average": 0,
+    "stdDev": 0.503993673666078
+  },
+  "wheel-symmetrical": {
+    "average": 0,
+    "stdDev": 0.275648975435027
+  },
+  "hate-graveyard": {
+    "average": 0,
+    "stdDev": 0.5783621760939824
+  },
+  "graveyard-seal": {
+    "average": 0,
+    "stdDev": 0.12464866423186206
+  },
+  "draw-matters": {
+    "average": 0,
+    "stdDev": 0.5960307091543288
+  },
+  "inverted-effects": {
+    "average": 0,
+    "stdDev": 0.8464748355108778
+  },
+  "poison-mechanics": {
+    "average": 0,
+    "stdDev": 1.1691795216343561
+  },
+  "poisonous": {
+    "average": 0,
+    "stdDev": 0.7865014958964246
+  },
+  "type-addition-phyrexian": {
+    "average": 0,
+    "stdDev": 0.4019798636073577
+  },
+  "protects-land": {
+    "average": 0,
+    "stdDev": 0.1443954296237625
+  },
+  "recursion-permanent": {
+    "average": 0,
+    "stdDev": 0.28229640277844836
+  },
+  "regrowth-permanent": {
+    "average": 0,
+    "stdDev": 0.17542479088605978
+  },
+  "scales-with-power": {
+    "average": 0,
+    "stdDev": 0.499097019429618
+  },
+  "mix-and-match": {
+    "average": 0,
+    "stdDev": 0.3186592300432237
+  },
+  "fun-ruling": {
+    "average": 0,
+    "stdDev": 0.4908954553011106
+  },
+  "whirlpool": {
+    "average": 0,
+    "stdDev": 0.16143899813950993
+  },
+  "soul-warden-ability": {
+    "average": 0,
+    "stdDev": 0.4146234318228043
+  },
+  "out-of-color-token": {
+    "average": 0,
+    "stdDev": 0.6762377644243782
+  },
+  "plunder": {
+    "average": 0,
+    "stdDev": 0.685732125918306
+  },
+  "tutor-land-plains": {
+    "average": 0,
+    "stdDev": 0.5352453364284495
+  },
+  "toll": {
+    "average": 0,
+    "stdDev": 0.5764525253944863
+  },
+  "counter-fuel-aesthetic": {
+    "average": 0,
+    "stdDev": 0.2503005410822729
+  },
+  "synergy-token-creature": {
+    "average": 0,
+    "stdDev": 0.5991339646675724
+  },
+  "tome": {
+    "average": 0,
+    "stdDev": 0.16542574656414016
+  },
+  "monarch-matters": {
+    "average": 0,
+    "stdDev": 0.28353649335376924
+  },
+  "tax-attack": {
+    "average": 0,
+    "stdDev": 0.1137147065368355
+  },
+  "drain-life": {
+    "average": 0,
+    "stdDev": 0.7572160211236627
+  },
+  "hand-size-hate": {
+    "average": 0,
+    "stdDev": 0.23544222071307927
+  },
+  "hate-full-hand": {
+    "average": 0,
+    "stdDev": 0.14951136664821454
+  },
+  "damage-prevention-you": {
+    "average": 0,
+    "stdDev": 0.36704677631933424
+  },
+  "consult": {
+    "average": 0,
+    "stdDev": 0.8027119230679491
+  },
+  "consult-cast": {
+    "average": 0,
+    "stdDev": 0.7009130258223497
+  },
+  "gives-cascade": {
+    "average": 0,
+    "stdDev": 0.12703831295755563
+  },
+  "synergy-exile-cast": {
+    "average": 0,
+    "stdDev": 0.5390708987148342
+  },
+  "named-choice": {
+    "average": 0,
+    "stdDev": 0.21728624426934354
+  },
+  "secretly-choose": {
+    "average": 0,
+    "stdDev": 0.120144259719491
+  },
+  "voting": {
+    "average": 0,
+    "stdDev": 0.24565184222025874
+  },
+  "sweeper-one-sided": {
+    "average": 0,
+    "stdDev": 0.38072020553125285
+  },
+  "typal-ally": {
+    "average": 0,
+    "stdDev": 0.9280447407847078
+  },
+  "earthbend": {
+    "average": 0,
+    "stdDev": 1.1933641032472049
+  },
+  "haven": {
+    "average": 0,
+    "stdDev": 0.5469167056499605
+  },
+  "tap-fuel-artifact": {
+    "average": 0,
+    "stdDev": 0.49038469098082177
+  },
+  "personal-text": {
+    "average": 0,
+    "stdDev": 0.25682348007884237
+  },
+  "exile-on-resolution": {
+    "average": 0,
+    "stdDev": 0.21728624426934354
+  },
+  "bottomless-mana-sink": {
+    "average": 0,
+    "stdDev": 0.5029982279507272
+  },
+  "exile-with-tax": {
+    "average": 0,
+    "stdDev": 0.32380803564066957
+  },
+  "synergy-basic": {
+    "average": 0,
+    "stdDev": 0.26031256272556386
+  },
+  "hellbending": {
+    "average": 0,
+    "stdDev": 0.1387306413812729
+  },
+  "nightveil-theft": {
+    "average": 0,
+    "stdDev": 0.642331858558835
+  },
+  "tutor-land-island": {
+    "average": 0,
+    "stdDev": 0.5961147933346377
+  },
+  "synergy-food": {
+    "average": 0,
+    "stdDev": 0.9727646429230716
+  },
+  "repeatable-food": {
+    "average": 0,
+    "stdDev": 0.5392568172920862
+  },
+  "theft-cast": {
+    "average": 0,
+    "stdDev": 0.8016497624398624
+  },
+  "typal-rat": {
+    "average": 0,
+    "stdDev": 0.5162748253291504
+  },
+  "poison-opponents": {
+    "average": 0,
+    "stdDev": 0.2727242351171023
+  },
+  "tricycle-land": {
+    "average": 0,
+    "stdDev": 0.43016753231043564
+  },
+  "typal-pirate": {
+    "average": 0,
+    "stdDev": 0.5332752741720771
+  },
+  "counterspell-with-set-mechanic": {
+    "average": 0,
+    "stdDev": 0.5154003590144007
+  },
+  "synergy-flying": {
+    "average": 0,
+    "stdDev": 0.39302764502182713
+  },
+  "gives-flying": {
+    "average": 0,
+    "stdDev": 0.5028985750071142
+  },
+  "removal-permanent": {
+    "average": 0,
+    "stdDev": 0.40816643616921294
+  },
+  "mana-increaser": {
+    "average": 0,
+    "stdDev": 0.2774612827625458
+  },
+  "quadratic": {
+    "average": 0,
+    "stdDev": 0.1309241716909414
+  },
+  "sacrifice-outlet-artifact": {
+    "average": 0,
+    "stdDev": 0.6496251463682001
+  },
+  "synergy-multicolor": {
+    "average": 0,
+    "stdDev": 0.3231883067747443
+  },
+  "alt-commander": {
+    "average": 0,
+    "stdDev": 0.24829006241132837
+  },
+  "mana-filter": {
+    "average": 0,
+    "stdDev": 0.54296182010471
+  },
+  "counterspell-soft": {
+    "average": 0,
+    "stdDev": 0.2954818825291445
+  },
+  "typal-sliver": {
+    "average": 0,
+    "stdDev": 1.198811560662955
+  },
+  "sliver-stackable": {
+    "average": 0,
+    "stdDev": 0.4917115746597496
+  },
+  "tutor-land-mountain": {
+    "average": 0,
+    "stdDev": 0.4533135599568336
+  },
+  "activate-from-graveyard": {
+    "average": 0,
+    "stdDev": 0.459790580271601
+  },
+  "renew": {
+    "average": 0,
+    "stdDev": 0.34450666702503635
+  },
+  "aesthetic-counter": {
+    "average": 0,
+    "stdDev": 0.42002787550218296
+  },
+  "counter-fuel-pp": {
+    "average": 0,
+    "stdDev": 0.1987329552187456
+  },
+  "second-draw-matters": {
+    "average": 0,
+    "stdDev": 0.20494097180558865
+  },
+  "repeated-effect": {
+    "average": 0,
+    "stdDev": 0.20445126746940853
+  },
+  "repeated-keyword": {
+    "average": 0,
+    "stdDev": 0.20445126746940853
+  },
+  "living-weapon": {
+    "average": 0,
+    "stdDev": 0.448198747299671
+  },
+  "non-mana-ability-mana": {
+    "average": 0,
+    "stdDev": 0.7838204506116901
+  },
+  "mana-ability-with-extra-effect": {
+    "average": 0,
+    "stdDev": 0.5274159669989039
+  },
+  "magecraft": {
+    "average": 0,
+    "stdDev": 0.1774134755285457
+  },
+  "synergy-copy": {
+    "average": 0,
+    "stdDev": 0.18917157853838426
+  },
+  "mana-storage": {
+    "average": 0,
+    "stdDev": 0.23501608059776438
+  },
+  "synergy-swamp": {
+    "average": 0,
+    "stdDev": 0.6185614633011947
+  },
+  "etb-untapper": {
+    "average": 0,
+    "stdDev": 0.18569533817705186
+  },
+  "tutor-mv": {
+    "average": 0,
+    "stdDev": 0.5610306702767495
+  },
+  "dnd-monster": {
+    "average": 0,
+    "stdDev": 0.2882697324603585
+  },
+  "unique-mana-cost": {
+    "average": 0,
+    "stdDev": 0.41558935842440126
+  },
+  "color-choose-land": {
+    "average": 0,
+    "stdDev": 0.3253521933525674
+  },
+  "gives-castable-from-graveyard": {
+    "average": 0,
+    "stdDev": 0.4091476069026458
+  },
+  "commander-identity-matters": {
+    "average": 0,
+    "stdDev": 0.2867006687405788
+  },
+  "commander-matters": {
+    "average": 0,
+    "stdDev": 0.3205410922492916
+  },
+  "synergy-commander": {
+    "average": 0,
+    "stdDev": 0.7852897758642887
+  },
+  "wedgeland": {
+    "average": 0,
+    "stdDev": 0.3349167151615863
+  },
+  "copy-self": {
+    "average": 0,
+    "stdDev": 0.4853507565219771
+  },
+  "synergy-gate": {
+    "average": 0,
+    "stdDev": 0.5331812801157954
+  },
+  "tutor-land-gate": {
+    "average": 0,
+    "stdDev": 0.18569533817705186
+  },
+  "tuck": {
+    "average": 0,
+    "stdDev": 0.2990227332964291
+  },
+  "color-break": {
+    "average": 0,
+    "stdDev": 0.2109663867995616
+  },
+  "swap-removal": {
+    "average": 0,
+    "stdDev": 0.5660113826812845
+  },
+  "synergy-desert": {
+    "average": 0,
+    "stdDev": 0.3021906120288917
+  },
+  "tutor-land-basic-forest": {
+    "average": 0,
+    "stdDev": 0.14508797762393136
+  },
+  "name-matters": {
+    "average": 0,
+    "stdDev": 0.32334335034651934
+  },
+  "exponential": {
+    "average": 0,
+    "stdDev": 0.362512616266919
+  },
+  "pair-commander": {
+    "average": 0,
+    "stdDev": 0.7166118042197415
+  },
+  "gives-pp-counters-to-all": {
+    "average": 0,
+    "stdDev": 0.4835920460893646
+  },
+  "leaves-graveyard-trigger": {
+    "average": 0,
+    "stdDev": 0.30136018833194855
+  },
+  "synergy-graveyard-cast": {
+    "average": 0,
+    "stdDev": 0.3476925888298243
+  },
+  "gives-deathtouch": {
+    "average": 0,
+    "stdDev": 0.3395241729149555
+  },
+  "reanimate-self": {
+    "average": 0,
+    "stdDev": 0.3247354113886927
+  },
+  "land-conversion": {
+    "average": 0,
+    "stdDev": 0.1369123368112995
+  },
+  "synergy-shrine": {
+    "average": 0,
+    "stdDev": 0.8510218396797279
+  },
+  "tutor-land-forest": {
+    "average": 0,
+    "stdDev": 0.6519356165416008
+  },
+  "flicker-artifact": {
+    "average": 0,
+    "stdDev": 0.2790822972327498
+  },
+  "banish": {
+    "average": 0,
+    "stdDev": 0.2415367798876444
+  },
+  "selective-group-hug": {
+    "average": 0,
+    "stdDev": 0.7363431829516659
+  },
+  "donate-rampant-growth": {
+    "average": 0,
+    "stdDev": 0.10308007180288016
+  },
+  "cda-color": {
+    "average": 0,
+    "stdDev": 0.7556257862123908
+  },
+  "characteristic-defining-ability": {
+    "average": 0,
+    "stdDev": 1.0838909386837339
+  },
+  "humble": {
+    "average": 0,
+    "stdDev": 0.22365162220622758
+  },
+  "color-change": {
+    "average": 0,
+    "stdDev": 0.18837506309102306
+  },
+  "bounce-self": {
+    "average": 0,
+    "stdDev": 0.10404798103595465
+  },
+  "deanimate-self": {
+    "average": 0,
+    "stdDev": 0.3383411582626311
+  },
+  "gives-flash": {
+    "average": 0,
+    "stdDev": 0.320853662866953
+  },
+  "dice-roll": {
+    "average": 0,
+    "stdDev": 1.4447177240989264
+  },
+  "synergy-dice": {
+    "average": 0,
+    "stdDev": 0.32780771643983303
+  },
+  "dnd-character": {
+    "average": 0,
+    "stdDev": 0.2546677316987069
+  },
+  "dnd-mechanic": {
+    "average": 0,
+    "stdDev": 0.35127788254006026
+  },
+  "affects-dice-roll": {
+    "average": 0,
+    "stdDev": 0.1430002719811681
+  },
+  "synergy-cycling": {
+    "average": 0,
+    "stdDev": 0.41966974452147504
+  },
+  "hate-discard": {
+    "average": 0,
+    "stdDev": 0.5253211489583329
+  },
+  "creatureland": {
+    "average": 0,
+    "stdDev": 0.14883940204880355
+  },
+  "enlarge": {
+    "average": 0,
+    "stdDev": 0.5835385517507051
+  },
+  "giant-growth": {
+    "average": 0,
+    "stdDev": 0.5529319678102032
+  },
+  "impulsive-draw": {
+    "average": 0,
+    "stdDev": 1.0012021643290916
+  },
+  "ritual": {
+    "average": 0,
+    "stdDev": 0.43503357353685956
+  },
+  "exile-self-dfc-transform": {
+    "average": 0,
+    "stdDev": 0.4040939254200034
+  },
+  "counter-increaser": {
+    "average": 0,
+    "stdDev": 0.7610453706151318
+  },
+  "power-matters-self": {
+    "average": 0,
+    "stdDev": 0.5262743726581793
+  },
+  "counter-doubler": {
+    "average": 0,
+    "stdDev": 0.5013014337761408
+  },
+  "trigger-from-exile": {
+    "average": 0,
+    "stdDev": 0.25308838169595765
+  },
+  "gives-ward": {
+    "average": 0,
+    "stdDev": 0.25915475463212373
+  },
+  "recurring-suspend": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "rhystic": {
+    "average": 0,
+    "stdDev": 0.3890543302065225
+  },
+  "cost-reducer-activated-ability": {
+    "average": 0,
+    "stdDev": 0.2701391129340739
+  },
+  "type-addition-human": {
+    "average": 0,
+    "stdDev": 0.22342740999727725
+  },
+  "martyr": {
+    "average": 0,
+    "stdDev": 0.5549225655250916
+  },
+  "life-loss-matters": {
+    "average": 0,
+    "stdDev": 0.5193721149089426
+  },
+  "shrink": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "convoke": {
+    "average": 0,
+    "stdDev": 0.41823415395934777
+  },
+  "synergy-color-share": {
+    "average": 0,
+    "stdDev": 0.5163718968398944
+  },
+  "synergy-red": {
+    "average": 0,
+    "stdDev": 0.37728188385838324
+  },
+  "gives-reach": {
+    "average": 0,
+    "stdDev": 0.23650421176214806
+  },
+  "gainland": {
+    "average": 0,
+    "stdDev": 0.18104880227477982
+  },
+  "birthing-pod": {
+    "average": 0,
+    "stdDev": 0.1443954296237625
+  },
+  "cranial-plating": {
+    "average": 0,
+    "stdDev": 0.2333037366191315
+  },
+  "self-life-loss-matters": {
+    "average": 0,
+    "stdDev": 0.1629839041354002
+  },
+  "dilemma": {
+    "average": 0,
+    "stdDev": 0.551297950870054
+  },
+  "discard-outlet-land": {
+    "average": 0,
+    "stdDev": 0.12302978170038581
+  },
+  "gives-retrace": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "typal-druid": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "typal-faerie": {
+    "average": 0,
+    "stdDev": 0.5344019133310927
+  },
+  "typal-giant": {
+    "average": 0,
+    "stdDev": 0.1511782115383876
+  },
+  "typal-kithkin": {
+    "average": 0,
+    "stdDev": 0.3728722044266663
+  },
+  "typal-treefolk": {
+    "average": 0,
+    "stdDev": 0.3123044697027424
+  },
+  "trigger-doubler": {
+    "average": 0,
+    "stdDev": 0.2007404097561369
+  },
+  "typal-bird": {
+    "average": 0,
+    "stdDev": 0.4331862888712876
+  },
+  "maro": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "behold": {
+    "average": 0,
+    "stdDev": 0.11846383766365837
+  },
+  "untaps-self": {
+    "average": 0,
+    "stdDev": 0.28247389188921107
+  },
+  "gives-uncounterable": {
+    "average": 0,
+    "stdDev": 0.23671603823699966
+  },
+  "moxen": {
+    "average": 0,
+    "stdDev": 0.22342740999727725
+  },
+  "uninspired": {
+    "average": 0,
+    "stdDev": 0.22275341929122938
+  },
+  "synergy-vehicle": {
+    "average": 0,
+    "stdDev": 0.6465316757116207
+  },
+  "synergy-theft": {
+    "average": 0,
+    "stdDev": 0.20322184401023186
+  },
+  "card-types-in-graveyard-matter": {
+    "average": 0,
+    "stdDev": 0.33100294724155893
+  },
+  "card-types-matter": {
+    "average": 0,
+    "stdDev": 0.33100294724155893
+  },
+  "cast-trigger-other": {
+    "average": 0,
+    "stdDev": 0.2665906400578977
+  },
+  "turn-face-up-trigger-self": {
+    "average": 0,
+    "stdDev": 0.5441605145519416
+  },
+  "reanimate-face-down": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "hate-target": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "hate-artifact": {
+    "average": 0,
+    "stdDev": 0.29531221160930915
+  },
+  "deprecated-card-types": {
+    "average": 0,
+    "stdDev": 0.19797491194042433
+  },
+  "interrupt": {
+    "average": 0,
+    "stdDev": 0.1309241716909414
+  },
+  "rescue-creature": {
+    "average": 0,
+    "stdDev": 0.865098925419416
+  },
+  "ninjutsu": {
+    "average": 0,
+    "stdDev": 0.49191539293779163
+  },
+  "sneak-self": {
+    "average": 0,
+    "stdDev": 0.5324287302980864
+  },
+  "typal-ninja": {
+    "average": 0,
+    "stdDev": 0.3590395277933104
+  },
+  "cda-subtype": {
+    "average": 0,
+    "stdDev": 0.6789007105752408
+  },
+  "changeling": {
+    "average": 0,
+    "stdDev": 0.6728942621625802
+  },
+  "toughness-matters": {
+    "average": 0,
+    "stdDev": 0.9639138508125568
+  },
+  "hate-set-mechanic": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "amount-spent-matters": {
+    "average": 0,
+    "stdDev": 0.24565184222025874
+  },
+  "mana-spent-matters": {
+    "average": 0,
+    "stdDev": 0.3411441196105065
+  },
+  "graveyard-fuel": {
+    "average": 0,
+    "stdDev": 0.4713100035929306
+  },
+  "mm-counter-cost": {
+    "average": 0,
+    "stdDev": 0.5223551010988076
+  },
+  "prevent-blocker": {
+    "average": 0,
+    "stdDev": 0.3140648470420625
+  },
+  "gains-mm-counters": {
+    "average": 0,
+    "stdDev": 0.4895663596789206
+  },
+  "oil-counters-matter": {
+    "average": 0,
+    "stdDev": 0.14508797762393136
+  },
+  "counter-fuel-oil": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "filterland": {
+    "average": 0,
+    "stdDev": 0.3118226420004711
+  },
+  "repeatable-mulch": {
+    "average": 0,
+    "stdDev": 0.16542574656414016
+  },
+  "copy-token": {
+    "average": 0,
+    "stdDev": 0.3326643915928503
+  },
+  "removal-fight": {
+    "average": 0,
+    "stdDev": 0.4477512197319528
+  },
+  "sneak-creature": {
+    "average": 0,
+    "stdDev": 0.12938383370195908
+  },
+  "tutor-artifact": {
+    "average": 0,
+    "stdDev": 0.5561856001483225
+  },
+  "cda-power": {
+    "average": 0,
+    "stdDev": 0.24277862241722753
+  },
+  "tormenting-voice": {
+    "average": 0,
+    "stdDev": 0.3424638309972297
+  },
+  "mixed-subtypes": {
+    "average": 0,
+    "stdDev": 0.7166118042197415
+  },
+  "prevent-cast": {
+    "average": 0,
+    "stdDev": 0.39379204310869176
+  },
+  "counterspell-exile": {
+    "average": 0,
+    "stdDev": 0.10642924994843762
+  },
+  "aikido": {
+    "average": 0,
+    "stdDev": 0.23201118519617694
+  },
+  "catalog": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "prevent-attack": {
+    "average": 0,
+    "stdDev": 0.2265461887154396
+  },
+  "tutor-enchantment": {
+    "average": 0,
+    "stdDev": 0.21285849989687525
+  },
+  "donate-mana": {
+    "average": 0,
+    "stdDev": 0.10736697070961097
+  },
+  "synergy-initiative": {
+    "average": 0,
+    "stdDev": 0.11058639356204063
+  },
+  "synergy-sacrifice": {
+    "average": 0,
+    "stdDev": 0.5679561409363099
+  },
+  "move-counters": {
+    "average": 0,
+    "stdDev": 0.24380865938217897
+  },
+  "opponent-chooses": {
+    "average": 0,
+    "stdDev": 0.34884389194347526
+  },
+  "divvy": {
+    "average": 0,
+    "stdDev": 0.33160807196469316
+  },
+  "fact-or-fiction": {
+    "average": 0,
+    "stdDev": 0.240288519438982
+  },
+  "minigame": {
+    "average": 0,
+    "stdDev": 0.26451450435701357
+  },
+  "synergy-goad": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "repeatable-impulsive-draw": {
+    "average": 0,
+    "stdDev": 0.5905395572905678
+  },
+  "tutor-artifact-equipment": {
+    "average": 0,
+    "stdDev": 0.26413527189768715
+  },
+  "synergy-enchantment-creature": {
+    "average": 0,
+    "stdDev": 0.14917576270839414
+  },
+  "gives-mana-ability": {
+    "average": 0,
+    "stdDev": 0.26958193300859606
+  },
+  "synergy-locus": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "typal-assassin": {
+    "average": 0,
+    "stdDev": 0.7479589977998362
+  },
+  "typal-mercenary": {
+    "average": 0,
+    "stdDev": 0.2570185606083601
+  },
+  "blood-artist-ability": {
+    "average": 0,
+    "stdDev": 0.2964978690771343
+  },
+  "synergy-activated-ability": {
+    "average": 0,
+    "stdDev": 0.16723373191619412
+  },
+  "power-doubler": {
+    "average": 0,
+    "stdDev": 0.3031841180911535
+  },
+  "extra-untap": {
+    "average": 0,
+    "stdDev": 0.1774134755285457
+  },
+  "pillage-effect": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "restock": {
+    "average": 0,
+    "stdDev": 0.32841872855706766
+  },
+  "restock-self": {
+    "average": 0,
+    "stdDev": 0.10736697070961097
+  },
+  "tuck-outlet": {
+    "average": 0,
+    "stdDev": 0.16902237885833887
+  },
+  "protects-artifact": {
+    "average": 0,
+    "stdDev": 0.22984078028556523
+  },
+  "protects-enchantment": {
+    "average": 0,
+    "stdDev": 0.19898499457838942
+  },
+  "protects-permanent": {
+    "average": 0,
+    "stdDev": 0.11930700729116063
+  },
+  "protects-planeswalker": {
+    "average": 0,
+    "stdDev": 0.21001393775109148
+  },
+  "animate-vehicle": {
+    "average": 0,
+    "stdDev": 0.1824277163483141
+  },
+  "repeatable-clues": {
+    "average": 0,
+    "stdDev": 0.3123044697027424
+  },
+  "dnd-item": {
+    "average": 0,
+    "stdDev": 0.2066457983272807
+  },
+  "second-spell-matters": {
+    "average": 0,
+    "stdDev": 0.25954126454806314
+  },
+  "young-pyromancer-ability": {
+    "average": 0,
+    "stdDev": 0.21215093505848814
+  },
+  "mass-reanimation": {
+    "average": 0,
+    "stdDev": 0.23671603823699966
+  },
+  "face-commander": {
+    "average": 0,
+    "stdDev": 0.1902284112225274
+  },
+  "silence": {
+    "average": 0,
+    "stdDev": 0.1977215850139611
+  },
+  "karnstructs": {
+    "average": 0,
+    "stdDev": 0.12821643689971665
+  },
+  "division": {
+    "average": 0,
+    "stdDev": 0.22026447615240016
+  },
+  "life-divider": {
+    "average": 0,
+    "stdDev": 0.10967620200520753
+  },
+  "quietus-effect": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "typal-vampire": {
+    "average": 0,
+    "stdDev": 0.927936721842273
+  },
+  "repeatable-blood": {
+    "average": 0,
+    "stdDev": 0.1443954296237625
+  },
+  "synergy-blood": {
+    "average": 0,
+    "stdDev": 0.10967620200520753
+  },
+  "fog": {
+    "average": 0,
+    "stdDev": 0.3459584503933334
+  },
+  "reanimate-permanent": {
+    "average": 0,
+    "stdDev": 0.12860674659070087
+  },
+  "flicker-slow": {
+    "average": 0,
+    "stdDev": 0.3887965929604765
+  },
+  "tutor-land-basic-mountain": {
+    "average": 0,
+    "stdDev": 0.11888616997526386
+  },
+  "tutor-land-basic-plains": {
+    "average": 0,
+    "stdDev": 0.12424592112983736
+  },
+  "tutor-land-basic-island": {
+    "average": 0,
+    "stdDev": 0.11148915461079607
+  },
+  "tutor-land-basic-swamp": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "typal-halfling": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "quick-enchant": {
+    "average": 0,
+    "stdDev": 0.19101719861940225
+  },
+  "gives-double-strike": {
+    "average": 0,
+    "stdDev": 0.4933397631374772
+  },
+  "cost-reducer-equip-ability": {
+    "average": 0,
+    "stdDev": 0.24112141108520604
+  },
+  "lockdown": {
+    "average": 0,
+    "stdDev": 0.10061957223104409
+  },
+  "lockdown-creature": {
+    "average": 0,
+    "stdDev": 0.10061957223104409
+  },
+  "fog-selective": {
+    "average": 0,
+    "stdDev": 0.21072867811922635
+  },
+  "gives-menace": {
+    "average": 0,
+    "stdDev": 0.19101719861940225
+  },
+  "damage-prevention-planeswalker": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "damage-redirection": {
+    "average": 0,
+    "stdDev": 0.11761462357730076
+  },
+  "class-type-only": {
+    "average": 0,
+    "stdDev": 0.1266431695028047
+  },
+  "synergy-ring": {
+    "average": 0,
+    "stdDev": 0.1765639248741393
+  },
+  "graveyard-fuel-creature": {
+    "average": 0,
+    "stdDev": 0.11058639356204063
+  },
+  "defector": {
+    "average": 0,
+    "stdDev": 0.262994293466894
+  },
+  "donate": {
+    "average": 0,
+    "stdDev": 0.3817719208098537
+  },
+  "creature-ability-noncreature": {
+    "average": 0,
+    "stdDev": 0.3867285113092941
+  },
+  "synergy-defender": {
+    "average": 0,
+    "stdDev": 0.4936444506167362
+  },
+  "buttstrike": {
+    "average": 0,
+    "stdDev": 0.30956419686513137
+  },
+  "turns-off-defender": {
+    "average": 0,
+    "stdDev": 0.27198813597410015
+  },
+  "typal-squirrel": {
+    "average": 0,
+    "stdDev": 0.6229215641315882
+  },
+  "typal-demon": {
+    "average": 0,
+    "stdDev": 0.2514991139753636
+  },
+  "typal-knight": {
+    "average": 0,
+    "stdDev": 0.355673457908776
+  },
+  "typal-dinosaur": {
+    "average": 0,
+    "stdDev": 1.0352643398708272
+  },
+  "one-sided-fight": {
+    "average": 0,
+    "stdDev": 0.34217100167391107
+  },
+  "alternate-equip-cost": {
+    "average": 0,
+    "stdDev": 0.15987916447542522
+  },
+  "cost-reducer-artifact": {
+    "average": 0,
+    "stdDev": 0.3359626320535175
+  },
+  "repeatable-junk": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "lifegain-to-damage": {
+    "average": 0,
+    "stdDev": 0.185425235724008
+  },
+  "lifegain-increaser": {
+    "average": 0,
+    "stdDev": 0.20420597491861472
+  },
+  "outlast-mentor": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "damage-prevention-self": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "spite-damage": {
+    "average": 0,
+    "stdDev": 0.24277862241722753
+  },
+  "synergy-black": {
+    "average": 0,
+    "stdDev": 0.38789316397169765
+  },
+  "synergy-arcane": {
+    "average": 0,
+    "stdDev": 0.2944623905334139
+  },
+  "typal-spirit": {
+    "average": 0,
+    "stdDev": 0.37448173221484427
+  },
+  "tutored-by-name": {
+    "average": 0,
+    "stdDev": 0.2247693284289602
+  },
+  "tutors-by-name": {
+    "average": 0,
+    "stdDev": 0.18784217641353995
+  },
+  "synergy-bobblehead": {
+    "average": 0,
+    "stdDev": 0.3487001869355469
+  },
+  "shapechange": {
+    "average": 0,
+    "stdDev": 0.18810880845181382
+  },
+  "freeze": {
+    "average": 0,
+    "stdDev": 0.5757565365799984
+  },
+  "freeze-creature": {
+    "average": 0,
+    "stdDev": 0.5450807934345983
+  },
+  "hate-tapped": {
+    "average": 0,
+    "stdDev": 0.2954818825291445
+  },
+  "gains-flying": {
+    "average": 0,
+    "stdDev": 0.30202470995104097
+  },
+  "typal-horror": {
+    "average": 0,
+    "stdDev": 0.1054831933997808
+  },
+  "vanilla-equipment": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "tutor-to-top": {
+    "average": 0,
+    "stdDev": 0.15639277758936657
+  },
+  "impulse-creature": {
+    "average": 0,
+    "stdDev": 0.2654602152906631
+  },
+  "synergy-green": {
+    "average": 0,
+    "stdDev": 0.3489875377770054
+  },
+  "gives-first-strike": {
+    "average": 0,
+    "stdDev": 0.3247354113886927
+  },
+  "phasing": {
+    "average": 0,
+    "stdDev": 0.17049858486761837
+  },
+  "mana-cost-matters": {
+    "average": 0,
+    "stdDev": 0.15315448118896105
+  },
+  "x-cost-matters": {
+    "average": 0,
+    "stdDev": 0.15315448118896105
+  },
+  "bombard-self": {
+    "average": 0,
+    "stdDev": 0.10308007180288016
+  },
+  "spell-with-no-casting-cost": {
+    "average": 0,
+    "stdDev": 0.10111646202940462
+  },
+  "synergy-suspend": {
+    "average": 0,
+    "stdDev": 0.27962054710064865
+  },
+  "repeatable-plunder": {
+    "average": 0,
+    "stdDev": 0.34841259910358274
+  },
+  "tutor-to-graveyard": {
+    "average": 0,
+    "stdDev": 0.2688372301135173
+  },
+  "fling": {
+    "average": 0,
+    "stdDev": 0.153807594945865
+  },
+  "gives-myriad": {
+    "average": 0,
+    "stdDev": 0.09758511593293286
+  },
+  "weaker-in-singleton-formats": {
+    "average": 0,
+    "stdDev": 0.15084631605233104
+  },
+  "useless-in-singleton-formats": {
+    "average": 0,
+    "stdDev": 0.09392108820676998
+  },
+  "extra-turn": {
+    "average": 0,
+    "stdDev": 0.13469797514000112
+  },
+  "discarded-type-matters": {
+    "average": 0,
+    "stdDev": 0.3006941981514186
+  },
+  "synergy-plains": {
+    "average": 0,
+    "stdDev": 0.28069395046060475
+  },
+  "spree": {
+    "average": 0,
+    "stdDev": 0.1440479070269514
+  },
+  "punisher": {
+    "average": 0,
+    "stdDev": 0.38308250455052434
+  },
+  "keyword-counter": {
+    "average": 0,
+    "stdDev": 0.3800614055818228
+  },
+  "shield-counter": {
+    "average": 0,
+    "stdDev": 0.08376658293735517
+  },
+  "damage-prevention-creature": {
+    "average": 0,
+    "stdDev": 0.17167041023834995
+  },
+  "deathtouch-counter": {
+    "average": 0,
+    "stdDev": 0.08133804833814184
+  },
+  "first-strike-counter": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gains-first-strike": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "gains-vigilance": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "vigilance-counter": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "homeward-effect": {
+    "average": 0,
+    "stdDev": 0.36908934510115743
+  },
+  "opponent-lifegain": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "gives-charge-counter": {
+    "average": 0,
+    "stdDev": 0.18970073084064684
+  },
+  "counter-fuel-charge": {
+    "average": 0,
+    "stdDev": 0.23692767532731673
+  },
+  "color-spent-matters": {
+    "average": 0,
+    "stdDev": 0.1626760966762837
+  },
+  "converge": {
+    "average": 0,
+    "stdDev": 0.13432536591958585
+  },
+  "tutor-instant": {
+    "average": 0,
+    "stdDev": 0.1132730943577198
+  },
+  "tutor-sorcery": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "alternate-win-condition": {
+    "average": 0,
+    "stdDev": 0.15510557234533573
+  },
+  "reanimate-copy": {
+    "average": 0,
+    "stdDev": 0.12782493541509535
+  },
+  "breaks-ktk-morph-rule": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "typal-griffin": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "regrowth-creature": {
+    "average": 0,
+    "stdDev": 0.4358392985332441
+  },
+  "typal-insect": {
+    "average": 0,
+    "stdDev": 0.2080959620719093
+  },
+  "threshold": {
+    "average": 0,
+    "stdDev": 0.1405254202804175
+  },
+  "improvise": {
+    "average": 0,
+    "stdDev": 0.11930700729116063
+  },
+  "phyrexian-mana": {
+    "average": 0,
+    "stdDev": 0.23179505921988286
+  },
+  "regrowth-artifact": {
+    "average": 0,
+    "stdDev": 0.18970073084064684
+  },
+  "auto-equip": {
+    "average": 0,
+    "stdDev": 0.18352338815966712
+  },
+  "tutor-land-desert": {
+    "average": 0,
+    "stdDev": 0.14984621895264014
+  },
+  "regrowth-any": {
+    "average": 0,
+    "stdDev": 0.13244659694572
+  },
+  "universal-type-change": {
+    "average": 0,
+    "stdDev": 0.17769575649548755
+  },
+  "typal-frog": {
+    "average": 0,
+    "stdDev": 0.20396038736744002
+  },
+  "typal-otter": {
+    "average": 0,
+    "stdDev": 0.18623436786871833
+  },
+  "life-total-matters-self": {
+    "average": 0,
+    "stdDev": 0.19695964928958384
+  },
+  "potentially-free": {
+    "average": 0,
+    "stdDev": 0.22632484407175862
+  },
+  "specter-ability": {
+    "average": 0,
+    "stdDev": 0.0755891057691938
+  },
+  "unnoted-tracked-information": {
+    "average": 0,
+    "stdDev": 0.3139052206800142
+  },
+  "cost-reducer-colored-mana": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "graveyard-fuel-nonland": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "tutor-copy": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "tutor-nonland": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "relentless": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "tutor-creature-demon": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "preexisting-dnd-background": {
+    "average": 0,
+    "stdDev": 0.15703242352103125
+  },
+  "dethrone-effect": {
+    "average": 0,
+    "stdDev": 0.0769037974729325
+  },
+  "catch-up": {
+    "average": 0,
+    "stdDev": 0.20761369963434992
+  },
+  "pseudo-dethrone": {
+    "average": 0,
+    "stdDev": 0.0566365471788599
+  },
+  "40k-model": {
+    "average": 0,
+    "stdDev": 0.9845946495372365
+  },
+  "high-x-matters": {
+    "average": 0,
+    "stdDev": 0.3553915129909751
+  },
+  "typal-cat": {
+    "average": 0,
+    "stdDev": 0.2662143651490432
+  },
+  "typal-share": {
+    "average": 0,
+    "stdDev": 0.12860674659070087
+  },
+  "gives-player-ability": {
+    "average": 0,
+    "stdDev": 0.13282447673485384
+  },
+  "token-doubler": {
+    "average": 0,
+    "stdDev": 0.30988783960576005
+  },
+  "marauder": {
+    "average": 0,
+    "stdDev": 0.20445126746940853
+  },
+  "sweeper-graveyard": {
+    "average": 0,
+    "stdDev": 0.16236770569434636
+  },
+  "tutor-to-exile": {
+    "average": 0,
+    "stdDev": 0.09603193801796758
+  },
+  "keyword-soup": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "synergy-double-strike": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "synergy-first-strike": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "synergy-protection": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-trample": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "synergy-vigilance": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "gives-castable-from-library": {
+    "average": 0,
+    "stdDev": 0.2343754176687003
+  },
+  "play-from-top": {
+    "average": 0,
+    "stdDev": 0.22830922066481982
+  },
+  "mana-fix": {
+    "average": 0,
+    "stdDev": 0.18596504832380567
+  },
+  "synergy-creatureland": {
+    "average": 0,
+    "stdDev": 0.26356540009703083
+  },
+  "hate-empty-hand": {
+    "average": 0,
+    "stdDev": 0.1702043679359456
+  },
+  "gives-firebending": {
+    "average": 0,
+    "stdDev": 0.11148915461079607
+  },
+  "synergy-flash": {
+    "average": 0,
+    "stdDev": 0.0566365471788599
+  },
+  "restock-to-bottom": {
+    "average": 0,
+    "stdDev": 0.1132730943577198
+  },
+  "gives-infect": {
+    "average": 0,
+    "stdDev": 0.0679048345829911
+  },
+  "synergy-low-power": {
+    "average": 0,
+    "stdDev": 0.14264935053936392
+  },
+  "tunneling": {
+    "average": 0,
+    "stdDev": 0.08670665086329554
+  },
+  "gives-tap-ability": {
+    "average": 0,
+    "stdDev": 0.2781828998011565
+  },
+  "mill-each": {
+    "average": 0,
+    "stdDev": 0.30647254528003814
+  },
+  "lhurgoyf": {
+    "average": 0,
+    "stdDev": 0.18650329850393219
+  },
+  "grind": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "soothsaying": {
+    "average": 0,
+    "stdDev": 0.1335770293675495
+  },
+  "synergy-lesson": {
+    "average": 0,
+    "stdDev": 0.44629365586510084
+  },
+  "tokenfall": {
+    "average": 0,
+    "stdDev": 0.1258491606127934
+  },
+  "werewolf-mechanic": {
+    "average": 0,
+    "stdDev": 0.5865370078586779
+  },
+  "transform-improvement": {
+    "average": 0,
+    "stdDev": 0.2688372301135173
+  },
+  "affinity": {
+    "average": 0,
+    "stdDev": 0.3395241729149555
+  },
+  "affinity-for-artifacts": {
+    "average": 0,
+    "stdDev": 0.26165686376330866
+  },
+  "sacrifice-outlet-permanent": {
+    "average": 0,
+    "stdDev": 0.1082965722178219
+  },
+  "brainstorm": {
+    "average": 0,
+    "stdDev": 0.10875839338421489
+  },
+  "off-turn-casting-matters": {
+    "average": 0,
+    "stdDev": 0.2066457983272807
+  },
+  "mimic": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "deprecated-mechanics": {
+    "average": 0,
+    "stdDev": 0.12302978170038581
+  },
+  "hate-typal": {
+    "average": 0,
+    "stdDev": 0.20371450374897332
+  },
+  "hate-typal-zombie": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "leaves-trigger-self": {
+    "average": 0,
+    "stdDev": 0.09961835755114039
+  },
+  "tapper-permanent": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "tapper-planeswalker": {
+    "average": 0,
+    "stdDev": 0.11761462357730076
+  },
+  "gains-indestructible": {
+    "average": 0,
+    "stdDev": 0.1419449049967306
+  },
+  "synergy-poison": {
+    "average": 0,
+    "stdDev": 0.2865257979291034
+  },
+  "firebreathing": {
+    "average": 0,
+    "stdDev": 0.17049858486761837
+  },
+  "indestructible-god": {
+    "average": 0,
+    "stdDev": 0.18104880227477982
+  },
+  "cost-increaser": {
+    "average": 0,
+    "stdDev": 0.16633219579642514
+  },
+  "typal-rabbit": {
+    "average": 0,
+    "stdDev": 0.08376658293735517
+  },
+  "force-blocker": {
+    "average": 0,
+    "stdDev": 0.14748628849049827
+  },
+  "cost-reducer-instant": {
+    "average": 0,
+    "stdDev": 0.2908660298377116
+  },
+  "cost-reducer-instant-sorcery": {
+    "average": 0,
+    "stdDev": 0.2908660298377116
+  },
+  "cost-reducer-sorcery": {
+    "average": 0,
+    "stdDev": 0.2908660298377116
+  },
+  "protects-nonland": {
+    "average": 0,
+    "stdDev": 0.08495482076828985
+  },
+  "precognition-engine": {
+    "average": 0,
+    "stdDev": 0.1629839041354002
+  },
+  "damage-increaser": {
+    "average": 0,
+    "stdDev": 0.12782493541509535
+  },
+  "no-creature-type": {
+    "average": 0,
+    "stdDev": 0.22071909887787852
+  },
+  "hate-typal-non-elf": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "synergy-clue": {
+    "average": 0,
+    "stdDev": 0.25915475463212373
+  },
+  "typal-rebel": {
+    "average": 0,
+    "stdDev": 0.09445322327654886
+  },
+  "tutor-creature-rebel": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "heroic": {
+    "average": 0,
+    "stdDev": 0.29615959415914594
+  },
+  "synergy-target": {
+    "average": 0,
+    "stdDev": 0.318973644752214
+  },
+  "removal-tuck": {
+    "average": 0,
+    "stdDev": 0.21332890599522486
+  },
+  "sacrifice-outlet-enchantment": {
+    "average": 0,
+    "stdDev": 0.10012021643290916
+  },
+  "raid": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "mutual-sacrifice": {
+    "average": 0,
+    "stdDev": 0.25584584622948037
+  },
+  "consult-onto-battlefield": {
+    "average": 0,
+    "stdDev": 0.13764254111975036
+  },
+  "polymorph": {
+    "average": 0,
+    "stdDev": 0.1807717572734928
+  },
+  "pseudo-fog": {
+    "average": 0,
+    "stdDev": 0.14782572803841762
+  },
+  "miniwheel": {
+    "average": 0,
+    "stdDev": 0.0769037974729325
+  },
+  "hellbent": {
+    "average": 0,
+    "stdDev": 0.08133804833814184
+  },
+  "library-size-matters": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "hate-tutor": {
+    "average": 0,
+    "stdDev": 0.052978638778288
+  },
+  "combat-neutral-damage-trigger": {
+    "average": 0,
+    "stdDev": 0.12424592112983736
+  },
+  "tutor-creature-legendary": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "tutor-legendary": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "tutor-creature-green": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "crewless-vehicle": {
+    "average": 0,
+    "stdDev": 0.16174915980515764
+  },
+  "alternate-cost-life": {
+    "average": 0,
+    "stdDev": 0.19491325975723164
+  },
+  "hate-high-pt": {
+    "average": 0,
+    "stdDev": 0.15703242352103125
+  },
+  "cards-in-exile-matter": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "hate-colored": {
+    "average": 0,
+    "stdDev": 0.18325008437711052
+  },
+  "sneaky-self-trigger": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "tuck-self": {
+    "average": 0,
+    "stdDev": 0.12899587530626888
+  },
+  "open-attraction": {
+    "average": 0,
+    "stdDev": 0.22003681255032198
+  },
+  "dnd-spell": {
+    "average": 0,
+    "stdDev": 0.11589752960994143
+  },
+  "synergy-attraction": {
+    "average": 0,
+    "stdDev": 0.11846383766365837
+  },
+  "gives-changeling": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "phyrexian-mana-cost": {
+    "average": 0,
+    "stdDev": 0.10875839338421489
+  },
+  "synergy-nonhand-cast": {
+    "average": 0,
+    "stdDev": 0.3439242377547072
+  },
+  "synergy-library-cast": {
+    "average": 0,
+    "stdDev": 0.2566282512554333
+  },
+  "green-effect": {
+    "average": 0,
+    "stdDev": 0.09010819478961825
+  },
+  "overrun": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "hate-blue": {
+    "average": 0,
+    "stdDev": 0.09758511593293286
+  },
+  "bribery": {
+    "average": 0,
+    "stdDev": 0.09758511593293286
+  },
+  "multiple-race-types": {
+    "average": 0,
+    "stdDev": 0.2328736832827566
+  },
+  "delve": {
+    "average": 0,
+    "stdDev": 0.12138931120861376
+  },
+  "rescue-artifact": {
+    "average": 0,
+    "stdDev": 0.13395172022801688
+  },
+  "rescue-enchantment": {
+    "average": 0,
+    "stdDev": 0.13054079115576622
+  },
+  "rescue-permanent": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "type-errata-genericise": {
+    "average": 0,
+    "stdDev": 0.17882042440964765
+  },
+  "restock-creature": {
+    "average": 0,
+    "stdDev": 0.0825612455225171
+  },
+  "typal-villain": {
+    "average": 0,
+    "stdDev": 0.23522924715460153
+  },
+  "typal-mutant": {
+    "average": 0,
+    "stdDev": 0.14850227952748626
+  },
+  "typal-turtle": {
+    "average": 0,
+    "stdDev": 0.10875839338421489
+  },
+  "counterspell-ability": {
+    "average": 0,
+    "stdDev": 0.11058639356204063
+  },
+  "reanimate-planeswalker": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "recursion-planeswalker": {
+    "average": 0,
+    "stdDev": 0.10210298745930736
+  },
+  "mass-land-denial": {
+    "average": 0,
+    "stdDev": 0.1870399997530429
+  },
+  "landfall-other": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "hate-nonbasic-land": {
+    "average": 0,
+    "stdDev": 0.159565367971795
+  },
+  "hate-lifegain": {
+    "average": 0,
+    "stdDev": 0.16663324979080865
+  },
+  "lifelink-counter": {
+    "average": 0,
+    "stdDev": 0.13432536591958585
+  },
+  "flying-counter": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "typal-eldrazi": {
+    "average": 0,
+    "stdDev": 0.2626128657194451
+  },
+  "synergy-burn": {
+    "average": 0,
+    "stdDev": 0.16205872785832964
+  },
+  "doesn-t-untap": {
+    "average": 0,
+    "stdDev": 0.07425113976374313
+  },
+  "synergy-color-choose": {
+    "average": 0,
+    "stdDev": 0.1629839041354002
+  },
+  "counterspell-bounce": {
+    "average": 0,
+    "stdDev": 0.06641223836742692
+  },
+  "tapper-nonland": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "leaves-body-behind": {
+    "average": 0,
+    "stdDev": 0.3196015462353937
+  },
+  "removes-mm-counters": {
+    "average": 0,
+    "stdDev": 0.3089158941705831
+  },
+  "removes-mm-counters-self": {
+    "average": 0,
+    "stdDev": 0.2847711837687446
+  },
+  "table-order-matters": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "typal-spider": {
+    "average": 0,
+    "stdDev": 0.4031004539097685
+  },
+  "trigger-from-graveyard": {
+    "average": 0,
+    "stdDev": 0.09445322327654886
+  },
+  "inspired": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "prevent-mass-blockers": {
+    "average": 0,
+    "stdDev": 0.05923191883182918
+  },
+  "synergy-convoke": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "synergy-tapped": {
+    "average": 0,
+    "stdDev": 0.3205410922492916
+  },
+  "peek-hand": {
+    "average": 0,
+    "stdDev": 0.1702043679359456
+  },
+  "thoughtseize": {
+    "average": 0,
+    "stdDev": 0.16205872785832964
+  },
+  "typal-kraken": {
+    "average": 0,
+    "stdDev": 0.20833667465911815
+  },
+  "typal-leviathan": {
+    "average": 0,
+    "stdDev": 0.19898499457838942
+  },
+  "typal-multi-sea-monster": {
+    "average": 0,
+    "stdDev": 0.19898499457838942
+  },
+  "typal-octopus": {
+    "average": 0,
+    "stdDev": 0.19898499457838942
+  },
+  "typal-serpent": {
+    "average": 0,
+    "stdDev": 0.2191237927924821
+  },
+  "hate-vehicle": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "tutor-enchantment-aura": {
+    "average": 0,
+    "stdDev": 0.08376658293735517
+  },
+  "synergy-color-every": {
+    "average": 0,
+    "stdDev": 0.05923191883182918
+  },
+  "5c-set-mechanic-commander": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "typal-outlaw": {
+    "average": 0,
+    "stdDev": 0.21612984306140648
+  },
+  "typal-warlock": {
+    "average": 0,
+    "stdDev": 0.21612984306140648
+  },
+  "meme": {
+    "average": 0,
+    "stdDev": 0.16633219579642514
+  },
+  "ethereal-armor": {
+    "average": 0,
+    "stdDev": 0.09961835755114039
+  },
+  "counterspell-noncreature": {
+    "average": 0,
+    "stdDev": 0.15798703671202177
+  },
+  "unique-evasion": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "cda-toughness": {
+    "average": 0,
+    "stdDev": 0.20198493754730915
+  },
+  "repeatable-roles": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "hate-black": {
+    "average": 0,
+    "stdDev": 0.211914555113152
+  },
+  "hate-red": {
+    "average": 0,
+    "stdDev": 0.09707015130439542
+  },
+  "hate-swamp": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "typal-horse": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "armament-ability": {
+    "average": 0,
+    "stdDev": 0.09498237712710351
+  },
+  "uril-ability": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "typal-mouse": {
+    "average": 0,
+    "stdDev": 0.10061957223104409
+  },
+  "creates-token-of-a-card": {
+    "average": 0,
+    "stdDev": 0.13395172022801688
+  },
+  "has-identical-token": {
+    "average": 0,
+    "stdDev": 0.15018032464936376
+  },
+  "token-versions-of-cards": {
+    "average": 0,
+    "stdDev": 0.17513884971653798
+  },
+  "giant-growth-with-set-mechanic": {
+    "average": 0,
+    "stdDev": 0.17542479088605978
+  },
+  "counter-fuel-mm": {
+    "average": 0,
+    "stdDev": 0.23861401458232126
+  },
+  "hate-storm": {
+    "average": 0,
+    "stdDev": 0.1731240383029809
+  },
+  "rule-of-law": {
+    "average": 0,
+    "stdDev": 0.16081688022566923
+  },
+  "flicker-planeswalker": {
+    "average": 0,
+    "stdDev": 0.12138931120861376
+  },
+  "upkeep-cost": {
+    "average": 0,
+    "stdDev": 0.1137147065368355
+  },
+  "unpreventable-damage": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-myr": {
+    "average": 0,
+    "stdDev": 0.16572844717696733
+  },
+  "rules-nightmare": {
+    "average": 0,
+    "stdDev": 0.07425113976374313
+  },
+  "turn-control": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "tutor-from-opponent": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "tutor-interaction": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "reanimate-artifact": {
+    "average": 0,
+    "stdDev": 0.1541331140294551
+  },
+  "set-life-total": {
+    "average": 0,
+    "stdDev": 0.1358096691659822
+  },
+  "metalcraft": {
+    "average": 0,
+    "stdDev": 0.08495482076828985
+  },
+  "cost-reducer-creature": {
+    "average": 0,
+    "stdDev": 0.0986069774732772
+  },
+  "hate-blocker": {
+    "average": 0,
+    "stdDev": 0.24808811844752987
+  },
+  "warlord": {
+    "average": 0,
+    "stdDev": 0.0769037974729325
+  },
+  "cost-reducer-equipment": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "charm": {
+    "average": 0,
+    "stdDev": 0.22698823047960667
+  },
+  "synergy-modified": {
+    "average": 0,
+    "stdDev": 0.16902237885833887
+  },
+  "gains-hexproof": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-saproling": {
+    "average": 0,
+    "stdDev": 0.269209839065885
+  },
+  "typal-fungus": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "counter-preservation-self": {
+    "average": 0,
+    "stdDev": 0.34754840777911716
+  },
+  "animate-artifact": {
+    "average": 0,
+    "stdDev": 0.13617821711404238
+  },
+  "counterspell-reusable": {
+    "average": 0,
+    "stdDev": 0.12782493541509535
+  },
+  "counterspell-automatic": {
+    "average": 0,
+    "stdDev": 0.052978638778288
+  },
+  "copy-ability": {
+    "average": 0,
+    "stdDev": 0.19670501485953565
+  },
+  "kismet-effect": {
+    "average": 0,
+    "stdDev": 0.0986069774732772
+  },
+  "hatebird": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "hate-etb": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "prevent-trigger": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "typal-raccoon": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "counter-fuel-any": {
+    "average": 0,
+    "stdDev": 0.1419449049967306
+  },
+  "flicker-enchantment": {
+    "average": 0,
+    "stdDev": 0.17627983148838944
+  },
+  "keyword-anthem": {
+    "average": 0,
+    "stdDev": 0.12860674659070087
+  },
+  "battalion": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "pariah": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "alternate-loss-condition": {
+    "average": 0,
+    "stdDev": 0.11930700729116063
+  },
+  "impulse-artifact": {
+    "average": 0,
+    "stdDev": 0.13654577032535642
+  },
+  "turn-face-down": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "creatures-become-mana": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "block-additional": {
+    "average": 0,
+    "stdDev": 0.05923191883182918
+  },
+  "synergy-blocker": {
+    "average": 0,
+    "stdDev": 0.05105149372965368
+  },
+  "block-unlimited": {
+    "average": 0,
+    "stdDev": 0.03166079237570117
+  },
+  "typal-dog": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "deprecated-legend-type": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "perpetual-aura": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "old-lifelink": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "hate-graveyard-cast": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "coin-flips-matter": {
+    "average": 0,
+    "stdDev": 0.19948811799737126
+  },
+  "heckbent": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "keyword-errata": {
+    "average": 0,
+    "stdDev": 0.0825612455225171
+  },
+  "synergy-land-graveyard": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "synergy-curse": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "phase-manipulation": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "graveyard-fuel-artifact": {
+    "average": 0,
+    "stdDev": 0.11546426630045126
+  },
+  "buff-mana": {
+    "average": 0,
+    "stdDev": 0.13206763594884358
+  },
+  "synergy-transform": {
+    "average": 0,
+    "stdDev": 0.12860674659070087
+  },
+  "counter-fuel-other": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "regrowth-aura": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "regrowth-equipment": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "synergy-proliferate": {
+    "average": 0,
+    "stdDev": 0.09758511593293286
+  },
+  "gives-player-hexproof": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "copy-spell": {
+    "average": 0,
+    "stdDev": 0.10642924994843762
+  },
+  "wheel-one-sided": {
+    "average": 0,
+    "stdDev": 0.10642924994843762
+  },
+  "rummage-to-library": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "restock-all": {
+    "average": 0,
+    "stdDev": 0.12860674659070087
+  },
+  "theft-mass": {
+    "average": 0,
+    "stdDev": 0.08670665086329554
+  },
+  "legendfall": {
+    "average": 0,
+    "stdDev": 0.11282975373538298
+  },
+  "land-or-hand": {
+    "average": 0,
+    "stdDev": 0.03166079237570117
+  },
+  "typal-phyrexian": {
+    "average": 0,
+    "stdDev": 0.32365321467287084
+  },
+  "synergy-incubator": {
+    "average": 0,
+    "stdDev": 0.10736697070961097
+  },
+  "phyrexian-mana-ability": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "bombard": {
+    "average": 0,
+    "stdDev": 0.08376658293735517
+  },
+  "hate-typal-goblin": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-kicker": {
+    "average": 0,
+    "stdDev": 0.08612666675625909
+  },
+  "hate-flash": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "reanimate-enchantment": {
+    "average": 0,
+    "stdDev": 0.11846383766365837
+  },
+  "enchantmentize": {
+    "average": 0,
+    "stdDev": 0.11148915461079607
+  },
+  "leveler": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "save-from-death": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "cost-reducer-legendary": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "storm-count-matters": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "persist": {
+    "average": 0,
+    "stdDev": 0.15893591633486398
+  },
+  "eldrazi-titan": {
+    "average": 0,
+    "stdDev": 0.19619475455811422
+  },
+  "rupture-spire": {
+    "average": 0,
+    "stdDev": 0.06410821844985833
+  },
+  "sword-of-x-and-y": {
+    "average": 0,
+    "stdDev": 0.1999899756910445
+  },
+  "hate-green": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "hate-typal-cleric": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "synergy-vote": {
+    "average": 0,
+    "stdDev": 0.12424592112983736
+  },
+  "copy-permanent-spell": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "copy-permanent": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "jump": {
+    "average": 0,
+    "stdDev": 0.0679048345829911
+  },
+  "ingest": {
+    "average": 0,
+    "stdDev": 0.13244659694572
+  },
+  "hate-instant": {
+    "average": 0,
+    "stdDev": 0.12384186828377565
+  },
+  "hate-sorcery": {
+    "average": 0,
+    "stdDev": 0.12384186828377565
+  },
+  "gives-ingest": {
+    "average": 0,
+    "stdDev": 0.0986069774732772
+  },
+  "turn-face-up": {
+    "average": 0,
+    "stdDev": 0.12056070554260302
+  },
+  "blood-moon-effect": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "rack-effect": {
+    "average": 0,
+    "stdDev": 0.12545027162010827
+  },
+  "wheel-symmetrical-optional": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "the-doctor": {
+    "average": 0,
+    "stdDev": 0.10967620200520753
+  },
+  "typal-time-lord": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "repeatable-mutagens": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "gives-suspend": {
+    "average": 0,
+    "stdDev": 0.12938383370195908
+  },
+  "hungry-demon": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "synergy-crime": {
+    "average": 0,
+    "stdDev": 0.1443954296237625
+  },
+  "discard-to-exile": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "commander-set-booster-cards": {
+    "average": 0,
+    "stdDev": 0.09284766908852593
+  },
+  "sacrifice-cost-land": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "doctor-who-episode-saga": {
+    "average": 0,
+    "stdDev": 0.11103869153787911
+  },
+  "typal-doctor": {
+    "average": 0,
+    "stdDev": 0.10308007180288016
+  },
+  "toughness-matters-self": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "tutor-creature-mercenary": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "color-change-self": {
+    "average": 0,
+    "stdDev": 0.09284766908852593
+  },
+  "synergy-toxic": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "alternate-cost-sacrifice": {
+    "average": 0,
+    "stdDev": 0.09758511593293286
+  },
+  "tutor-creature-colorless": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "reanimate-aura": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "regenerates-other": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "synergy-scry": {
+    "average": 0,
+    "stdDev": 0.14680505487867587
+  },
+  "ball-lightning": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "tap-fuel-token": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "splits-on-death": {
+    "average": 0,
+    "stdDev": 0.10967620200520753
+  },
+  "synergy-exiling": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "sift": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "gives-convoke": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "block-trigger": {
+    "average": 0,
+    "stdDev": 0.2088172673961392
+  },
+  "bushido": {
+    "average": 0,
+    "stdDev": 0.16174915980515764
+  },
+  "synergy-blocker-self": {
+    "average": 0,
+    "stdDev": 0.1645143030078113
+  },
+  "typal-samurai": {
+    "average": 0,
+    "stdDev": 0.22365162220622758
+  },
+  "morbid": {
+    "average": 0,
+    "stdDev": 0.1824277163483141
+  },
+  "impulse-creature-dragon": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "ransom": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "typal-dalek": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "keyword-errata-surveil": {
+    "average": 0,
+    "stdDev": 0.0769037974729325
+  },
+  "faux-targeting": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "noncreature-french-vanilla": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "typal-dwarf": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "impulse-permanent": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "genesis-effect": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "hate-typal-elf": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "shakedown": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-lizard": {
+    "average": 0,
+    "stdDev": 0.07008415150303642
+  },
+  "counterspell-instant": {
+    "average": 0,
+    "stdDev": 0.10642924994843762
+  },
+  "lure-limited": {
+    "average": 0,
+    "stdDev": 0.09066271199136672
+  },
+  "mana-gorger": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "removes-hexproof": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "gives-fear": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "strive": {
+    "average": 0,
+    "stdDev": 0.15987916447542522
+  },
+  "life-and-death-trigger-self": {
+    "average": 0,
+    "stdDev": 0.11459282541909015
+  },
+  "affinity-for-creature-type": {
+    "average": 0,
+    "stdDev": 0.15575050474186475
+  },
+  "affinity-for-party": {
+    "average": 0,
+    "stdDev": 0.14984621895264014
+  },
+  "typal-mount": {
+    "average": 0,
+    "stdDev": 0.2624219439452303
+  },
+  "remove-from-stack": {
+    "average": 0,
+    "stdDev": 0.09655244013940038
+  },
+  "multi-character-card": {
+    "average": 0,
+    "stdDev": 0.0825612455225171
+  },
+  "hate-noncreature": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "circle-of-protection": {
+    "average": 0,
+    "stdDev": 0.13617821711404238
+  },
+  "deal-with-the-devil": {
+    "average": 0,
+    "stdDev": 0.11013223807620008
+  },
+  "restricted-attacker": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "restricted-blocker": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "restock-to-top": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "compulsive-research": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "typal-skeleton": {
+    "average": 0,
+    "stdDev": 0.06410821844985833
+  },
+  "pacifism": {
+    "average": 0,
+    "stdDev": 0.1626760966762837
+  },
+  "gives-plot": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "create-land-tokens": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "earthquake": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "flicker-land": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "leyline": {
+    "average": 0,
+    "stdDev": 0.11459282541909015
+  },
+  "start-of-game": {
+    "average": 0,
+    "stdDev": 0.19948811799737126
+  },
+  "gives-flashback": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "hate-multicolor": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "sacrifice-outlet-token": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "counterspell-creature": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "last-chance": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "platinum-angel-effect": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "formidable": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "power-matters-total": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "unique-noncreature-token": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "trample-counter": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "gives-keyword-counter": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "offcolor-mana-generation": {
+    "average": 0,
+    "stdDev": 0.06410821844985833
+  },
+  "synergy-face-down-cast": {
+    "average": 0,
+    "stdDev": 0.0825612455225171
+  },
+  "type-errata-hound": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "temporary-reanimation": {
+    "average": 0,
+    "stdDev": 0.15703242352103125
+  },
+  "offcolor-additional-cost": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "shade-pump": {
+    "average": 0,
+    "stdDev": 0.11415461033240991
+  },
+  "synergy-snow": {
+    "average": 0,
+    "stdDev": 0.235867590925667
+  },
+  "remove-counters-other": {
+    "average": 0,
+    "stdDev": 0.1119378049329882
+  },
+  "exhaust": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "gives-persist": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-neo-solo-attack": {
+    "average": 0,
+    "stdDev": 0.14508797762393136
+  },
+  "gives-shroud": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "exalted": {
+    "average": 0,
+    "stdDev": 0.16753316587471034
+  },
+  "storm-like": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "synergy-town": {
+    "average": 0,
+    "stdDev": 0.10642924994843762
+  },
+  "un-design": {
+    "average": 0,
+    "stdDev": 0.3696321238430775
+  },
+  "un-set-mechanics": {
+    "average": 0,
+    "stdDev": 0.35298588879791937
+  },
+  "potentially-black-border": {
+    "average": 0,
+    "stdDev": 0.2375614553503232
+  },
+  "synergy-counterspell": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-minotaur": {
+    "average": 0,
+    "stdDev": 0.12977063227403157
+  },
+  "typal-god": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "random-discard": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "delayed-cantrip": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "affinity-for-graveyard": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "affinity-undergrowth": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "counterspell-sorcery": {
+    "average": 0,
+    "stdDev": 0.07946795816743199
+  },
+  "hate-activation": {
+    "average": 0,
+    "stdDev": 0.06716268295979293
+  },
+  "prevent-activation": {
+    "average": 0,
+    "stdDev": 0.11718770883435015
+  },
+  "reanimate-matters": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "gains-lifelink": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "absorb": {
+    "average": 0,
+    "stdDev": 0.14016830300607283
+  },
+  "hate-white": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "gains-menace": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "reanimate-artifact-creature": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "sneak-equipment": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "reanimate-equipment": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "regrowth-land": {
+    "average": 0,
+    "stdDev": 0.10308007180288016
+  },
+  "recasting-commander-matters": {
+    "average": 0,
+    "stdDev": 0.09284766908852593
+  },
+  "skip-draw-step": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "hate-flying": {
+    "average": 0,
+    "stdDev": 0.11148915461079607
+  },
+  "sacrifice-outlet-planeswalker": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "theft-permanent": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "free-discard-outlet": {
+    "average": 0,
+    "stdDev": 0.11930700729116063
+  },
+  "theft-artifact": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "counterspell-sacrifice": {
+    "average": 0,
+    "stdDev": 0.07819638879468328
+  },
+  "commander-tax-evasion": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "specific-power-matters": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "abrade": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "gives-prowess": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "prowess-anthem": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-ooze": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "typal-bat": {
+    "average": 0,
+    "stdDev": 0.09758511593293286
+  },
+  "gives-unstoppable": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "unstoppable": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "surge": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "end-turn": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "hate-regenerate": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "turns-off-defender-self": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "flicker-permanent": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "tutor-creature-spirit": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "forced-attacker": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "impulse-artifact-equipment": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gives-landwalk": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gives-swampwalk": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gives-banding": {
+    "average": 0,
+    "stdDev": 0.07624928516630233
+  },
+  "gains-banding": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-banding": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "reach-counter": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "outnumber": {
+    "average": 0,
+    "stdDev": 0.07357303295929284
+  },
+  "recursion-from-exile": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-flashback": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "type-errata-naga": {
+    "average": 0,
+    "stdDev": 0.05105149372965368
+  },
+  "doom-blade": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "stronger-in-singleton-formats": {
+    "average": 0,
+    "stdDev": 0.020024043286581833
+  },
+  "usg-storyline-in-cards": {
+    "average": 0,
+    "stdDev": 0.014159136794714975
+  },
+  "hate-free-spell": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "extract": {
+    "average": 0,
+    "stdDev": 0.03166079237570117
+  },
+  "chain-spell": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "planeswalker-deck-staples": {
+    "average": 0,
+    "stdDev": 0.10689913854644824
+  },
+  "synergy-pw-liliana": {
+    "average": 0,
+    "stdDev": 0.0566365471788599
+  },
+  "pwdeck-sidekick": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "demilich-effect": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "permanentfall": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "typal-wraith": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "offcolor-ability": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "dolmen-ability": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "naya-ferocious": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "typal-eldrazi-spawn": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "gives-stalking": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "just-shuffle": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "unique-counter": {
+    "average": 0,
+    "stdDev": 0.06641223836742692
+  },
+  "unique-planeswalker-type": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "rescue-nonland": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-golem": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "synergy-cave": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "gatefall": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "damage-prevention-player": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "copy-planeswalker": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "board-reset": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "synergy-haste": {
+    "average": 0,
+    "stdDev": 0.07755278617266786
+  },
+  "white-elephant": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "synergy-mutate": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "digital-to-paper": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "hate-planeswalker": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "emerge": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "emerge-from-creature": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "radiate": {
+    "average": 0,
+    "stdDev": 0.07219771481188125
+  },
+  "flicker-nonland": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "type-errata-lord": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "regenerates-self": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "nonstandard-bestow": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "repeatable-powerstones": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "storage-land": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "depletion-land": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "support": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "control-attacker": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "synergy-battle": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "typal-beast": {
+    "average": 0,
+    "stdDev": 0.0769037974729325
+  },
+  "artifactify": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "unique-cr-reference": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "lure": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "hate-theft": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "synergy-pw-nissa": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "type-errata-cephalid": {
+    "average": 0,
+    "stdDev": 0.16390385821991652
+  },
+  "deprecated-wall-restriction": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "hate-wide": {
+    "average": 0,
+    "stdDev": 0.0566365471788599
+  },
+  "cast-tax": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "disintegrate": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "synergy-suspect": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "gives-annihilator": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "drain-creature": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "cost-reducer-aura": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-spacecraft": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "gains-deathtouch": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "bounceable-aura": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "siege-modal": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "counter-preservation": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "expertise": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "tap-fuel-land": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "animate-enchantment": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "state-trigger": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "synergy-exhaust": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "token-errata": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "parasitic-aura": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "text-change": {
+    "average": 0,
+    "stdDev": 0.08785513336567695
+  },
+  "text-change-color": {
+    "average": 0,
+    "stdDev": 0.08785513336567695
+  },
+  "torment": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "mana-egg": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "titan-immortality": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "gains-trample": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "notorious-templating": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "lich-effect": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "regrowth-planeswalker": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "indestructible-counter": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "counter-fuel-keyword": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "mirror-gallery": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "removes-indestructible": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "mana-dork-egg": {
+    "average": 0,
+    "stdDev": 0.0600721298597455
+  },
+  "cost-reducer-noncreature": {
+    "average": 0,
+    "stdDev": 0.05202399051797733
+  },
+  "afflict": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gatewatch-oath": {
+    "average": 0,
+    "stdDev": 0.08554275041847777
+  },
+  "typal-thopter": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-vanilla": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "impulse-artifact-vehicle": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "freeze-nonland": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "any-player-ability": {
+    "average": 0,
+    "stdDev": 0.10012021643290916
+  },
+  "synergy-pw-jace": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "synergy-attacker-opponent": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "legendary-team-up": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "differently-named-lands-matter": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-adventure": {
+    "average": 0,
+    "stdDev": 0.12384186828377565
+  },
+  "synergy-deathtouch": {
+    "average": 0,
+    "stdDev": 0.08898879487594118
+  },
+  "synergy-lifelink": {
+    "average": 0,
+    "stdDev": 0.08376658293735517
+  },
+  "synergy-reach": {
+    "average": 0,
+    "stdDev": 0.08376658293735517
+  },
+  "borrow-ability": {
+    "average": 0,
+    "stdDev": 0.0566365471788599
+  },
+  "synergy-hexproof": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "synergy-indestructible": {
+    "average": 0,
+    "stdDev": 0.07079568397357489
+  },
+  "synergy-menace": {
+    "average": 0,
+    "stdDev": 0.06565321642986127
+  },
+  "gains-double-strike": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gains-reach": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-sticker": {
+    "average": 0,
+    "stdDev": 0.14016830300607283
+  },
+  "art-matters": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "synergy-art-sticker": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "synergy-name-sticker": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "un-keyword": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "dexterity": {
+    "average": 0,
+    "stdDev": 0.05837961657217933
+  },
+  "players-outside-game-matter": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "counterspell-tuck": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "enchant-change": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "worship": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "planechase-mechanic": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "typal-snake": {
+    "average": 0,
+    "stdDev": 0.042477410384144924
+  },
+  "deanimate": {
+    "average": 0,
+    "stdDev": 0.03166079237570117
+  },
+  "speech-matters": {
+    "average": 0,
+    "stdDev": 0.09010819478961825
+  },
+  "un-type-line": {
+    "average": 0,
+    "stdDev": 0.08009617314632733
+  },
+  "un-forecast": {
+    "average": 0,
+    "stdDev": 0.05006010821645458
+  },
+  "unique-creature-type": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "bablovian-faction-leader": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "tmp-storyline-in-cards": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "wingman": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "four-plus-creature-types": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "multiclass-party-member": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "abyss": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "gives-toxic": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "tutor-creature-goblin": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "planeswalker-deck-face-card": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-non-human": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "gives-cycling": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "old-blocking-deathtouch": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "mana-source-type": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "recycle": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "retaliate-to-damage": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-berserker": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "synergy-pw-gideon": {
+    "average": 0,
+    "stdDev": 0.040048086573163666
+  },
+  "tutor-planeswalker": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "gains-flash": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "tutor-flash": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "hand-size-decrease": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "typal-shaman": {
+    "average": 0,
+    "stdDev": 0.010012021643290916
+  },
+  "day-zero-errata": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "unprinted-token": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  },
+  "restock-any": {
+    "average": 0,
+    "stdDev": 0.03003606492987275
+  }
+}

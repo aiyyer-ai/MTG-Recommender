@@ -2,6 +2,7 @@ html {
       font-family: Beleren2016SmallCaps-Bold;
       background-color: #212121;
       color: #ffffff;
+      overflow: hidden;
 }
 
 /*
@@ -11,91 +12,123 @@ html {
 
 */
 
+.position {
+      position: absolute;
+}
+
 .flexContainer {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       gap: 10px;
       justify-content: center;
-      margin-left: 272px;
-      margin-top: 30px;
+      /* margin-top: 30px; */
 }
 
-.sideBar {
+#titleSection {
+      margin-top: 20px;
+}
+
+#graphData {
+      width: 500px;
+      overflow: auto;
+}
+
+#commanderTags {
+      overflow: auto;
+      width: 350px;
+}
+
+.barHolder {
+      position: relative;
+      height: 30px;
+      width: 100%;
       display: flex;
-      /* justify-content: center; */
+      justify-content: left;
       align-items: center;
-      align-content: flex-start;
-      flex-direction: column;
-      height: 100%;
-      /* Full-height: remove this if you want "auto" height */
-      width: 250px;
-      /* Set the width of the sidebar */
-      position: fixed;
-      /* Fixed Sidebar (stay in place on scroll) */
-      z-index: 1;
-      /* Stay on top */
-      top: 0;
-      /* Stay at the top */
-      left: 0;
-      overflow-x: hidden;
-      /* Disable horizontal scroll */
-      padding: 10px;
-      /* border-right: 1px solid #000000; */
-      text-align: center;
+      flex-shrink: 0;
 }
 
-.sideBarBorder {
-      position: fixed;
-      height: 100%;
-      width: 2px;
-      background: linear-gradient(to bottom, #0038A8, #9B4F96, #D60270);
-      margin-left: 270px;
-      top: 0;
-      left: 0;
-      overflow-x: hidden;
+.tighterHolder {
+      height: 20px !important;
 }
 
-.flip-card {
-      background-color: transparent;
-      perspective: 1000px;
-      /* Remove this if you don't want the 3D effect */
-      user-select: none;
-}
-
-.flip-card-inner {
+.relatedTagHolder {
       position: relative;
       width: 100%;
-      height: 100%;
-      text-align: center;
-      transition: transform 0.3s;
-      transform-style: preserve-3d;
-      will-change: transform;
+      margin-top: 15px;
+      margin-bottom: 10px;
 }
 
-/* .flip-card:hover .flip-card-inner {
-      transform: rotateY(180deg);
-} */
+.noGap {
+      gap: 5px !important;
+}
 
-.flip-card-front,
-.flip-card-back {
-      position: absolute;
+.paddingLeft {
+      width: 45px;
+      background-color: #212121;
+}
+
+.paddingRight {
+      padding-right: 10px;
+      background-color: #212121;
+}
+
+.horizontalRule {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 95%;
+      height: 2px;
+      background: linear-gradient(to right, #0038a8cc, #9B4F96cc, #D60270cc),
+                  #ffffff;
+      z-index: 0;
+}
+
+.bar {
+      position: relative;
+      height: 80%;
+      background-color: dimgrey;
+}
+
+.column {
+      display: flex;
+      flex-direction: column;
+      justify-content: start !important;
+}
+
+#mainData {
       width: 100%;
-      height: 100%;
-      -webkit-backface-visibility: hidden;
-      /* Safari */
-      backface-visibility: hidden;
+}
+
+#sideData {
+      width: 0px;
+}
+
+.centeredFlex {
+      align-items: center;
+}
+
+.card {
       mask-image: url('./images/cardBack.webp');
       mask-repeat: no-repeat;
       mask-size: contain;
 }
 
-.flip-card-front {
-      background-color: transparent;
+#commanderData {
+      position: relative;
+      width: 350px;
 }
 
-.flip-card-back {
-      background-color: transparent;
-      transform: rotateY(180deg);
+.placement1 {
+      left: 0px;
+      top: 45px;
+      z-index: 2 !important;
+}
+
+.placement2 {
+      left: 30px;
+      top: 0px;
+      z-index: 1 !important;
 }
 
 .lineBreak {
@@ -106,32 +139,59 @@ html {
       margin-top: 5px;
 }
 
+.basicText {
+      font-size: 16px;
+      /* font-family: Beleren2016SmallCaps-Bold; */
+      font-family: Beleren2016-Bold;
+      color: #ffffff;
+      white-space: nowrap;
+      margin-left: 3px;
+      margin-right: 3px;
+}
+
+.largeText {
+      font-size: 24px !important;
+}
+
 .titleText {
-      font-size: 40px;
-      font-family: Beleren2016SmallCaps-Bold;
-      margin-top: 20px;
+      font-size: 36px !important;
 }
 
-.packCount {
-      display: none;
-      margin-bottom: 10px;
-      margin-top: 10px;
-      font-size: 20px;
+.link {
+      cursor: pointer;
 }
 
-.setTitle {
-      display: none;
-      margin-bottom: 10px;
-      margin-top: 5px;
-      font-size: 25px;
+.link-gray span {
+      cursor: pointer;
+      color: #a0a0a0 !important;
 }
 
-.packNum {
-      font-size: 40px;
+.link-gray:hover span {
+      color: #ffffff !important;
 }
 
-#continueOpening {
-      display: none;
+.link-gray {
+      cursor: pointer;
+      color: #a0a0a0 !important;
+}
+
+.link-gray:hover {
+      color: #ffffff !important;
+}
+
+.textRight {
+      text-align: right;
+      padding-right: 10px;
+      right: 0px;
+      top: 50%;
+      transform: translateY(-50%);
+}
+
+.textLeft {
+      text-align: left;
+      left: 0px;
+      top: 50%;
+      transform: translateY(-50%);
 }
 
 .button {
@@ -155,7 +215,7 @@ html {
 .buttonText {
       font-family: Beleren2016-Bold;
       color: #ffffff;
-      pointer-events: none
+      pointer-events: none;
 }
 
 .button-container {
@@ -197,6 +257,19 @@ html {
       display: none;
 }
 
+#urlInputContainer {
+      margin-top: 4%;
+}
+
+#errorText {
+      font-size: 30px;
+      color: #ff0000;
+}
+
+.urlDiv {
+      width: 60% !important;
+}
+
 .input-container {
       width: 80%;
       border-radius: 5px;
@@ -207,20 +280,20 @@ html {
 }
 
 .input-container input {
-      width: 80%;
+      width: calc(100% - 40px);
       padding: 15px 20px;
       border: none;
       outline: none;
       background: #212121;
       border-radius: 5px;
-      font-size: 16px;
+      font-size: 30px;
       transition: 0.3s ease;
       font-family: Beleren2016SmallCaps-Bold;
       color: #ffffff;
 }
 
 .input-container label {
-      font-size: 18px;
+      font-size: 34px;
       background: #212121;
       padding: 0 10px;
       pointer-events: none;
@@ -246,8 +319,8 @@ html {
 }
 
 .imgcontainer img {
-      height: 100%;
-      width: 100%;
+      max-width: 100%;
+      max-height: 100%;
 }
 
 @font-face {
