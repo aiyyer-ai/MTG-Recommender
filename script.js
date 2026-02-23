@@ -1,9 +1,11 @@
 let jsonData;
+let oldJSONData;
 let averageData;
 let relatedTagData;
 
 window.onload = async () => {
       jsonData = await pullLocalData(`./data/cardData.json?cache_buster=${Date.now()}`);
+      oldJSONData = await pullLocalData(`./data/old/cardData.json?cache_buster=${Date.now()}`);
       averageData = await pullLocalData(`./data/averageDeckTags.json?cache_buster=${Date.now()}`);
       relatedTagData = await pullLocalData(`./data/liftData.json?cache_buster=${Date.now()}`);
       let inputField = document.getElementById('urlInput');
@@ -103,13 +105,14 @@ async function findMoxfieldDeck(deckURL) {
                   if (!commanderTagDiv.commanderUIDs) {
                         commanderTagDiv.commanderUIDs = [];
                   }
-                  commanderTagDiv.commanderUIDs.push(commanderUID);
+                  commanderTagDiv.commanderUIDs.push(scryfallData.oracle_id);
             }
       }
       for (cardData of Object.values(deckData.boards.mainboard.cards)) {
             cardUIDs.push(cardData.card.scryfall_id);
       }
-      let entries = getTagsFromUIDs(cardUIDs, jsonData);
+      //FIGURE OUT A WAY FOR MOXFIELD TO USE REAL JSON DATA PLEASE
+      let entries = getTagsFromUIDs(cardUIDs, oldJSONData);
       let significantEntries = calculateZScore(entries, averageData);
       makeGraphFromTags(significantEntries);
 }
@@ -147,7 +150,7 @@ async function findArchidektDeck(deckURL) {
       let totalCommanderCount = deckData.cards.filter((item) => item.categories.includes("Commander")).length;
       for (cardData of deckData.cards) {
             if (!cardData.categories.includes("Maybeboard") && !cardData.categories.includes("Sideboard")) {
-                  cardUIDs.push(cardData.card.uid);
+                  cardUIDs.push(cardData.card.oracleCard.uid);
             }
             if (cardData.categories.includes("Commander") && hasCommander < 2) {
                   hasCommander++;
@@ -184,7 +187,7 @@ async function findArchidektDeck(deckURL) {
                   if (!commanderTagDiv.commanderUIDs) {
                         commanderTagDiv.commanderUIDs = [];
                   }
-                  commanderTagDiv.commanderUIDs.push(cardData.card.uid);
+                  commanderTagDiv.commanderUIDs.push(cardData.card.oracleCard.uid);
             }
       }
       let entries = getTagsFromUIDs(cardUIDs, jsonData);
