@@ -232,7 +232,7 @@ function getTagsFromUIDs(UIDArray, tagArray) {
 
 function fillSideBar(tagName) {
       let sideBar = document.getElementById(`sideData`);
-      let linkIcon = `🡕`;
+      let linkIcon = `↗`;
       let tagTitle = document.createElement(`span`);
       tagTitle.classList.add(`titleText`, `basicText`);
       tagTitle.textContent = tagName;
