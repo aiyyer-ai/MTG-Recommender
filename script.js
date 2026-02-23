@@ -318,9 +318,9 @@ function assignClickability(tagDiv) {
                   sideBar.innerHTML = ``;
             } else {
                   sideBar.open = true;
-                  sideBar.style.width = `40%`;
+                  sideBar.style.width = `500px`;
                   sideBar.currentTag = tagDiv.textContent;
-                  sideBar.style.marginRight = `100px`;
+                  // sideBar.style.marginRight = `100px`;
                   sideBar.innerHTML = ``;
                   fillSideBar(tagDiv.textContent);
             }

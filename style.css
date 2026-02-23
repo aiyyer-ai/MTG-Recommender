@@ -2,7 +2,6 @@ html {
       font-family: Beleren2016SmallCaps-Bold;
       background-color: #212121;
       color: #ffffff;
-      overflow: hidden;
 }
 
 /*
@@ -63,6 +62,11 @@ html {
       gap: 5px !important;
 }
 
+.gapForJesus {
+      gap: 5%;
+      flex-wrap: wrap !important;
+}
+
 .paddingLeft {
       width: 45px;
       background-color: #212121;
@@ -97,7 +101,7 @@ html {
 }
 
 #mainData {
-      width: 100%;
+      /* width: 100%; */
 }
 
 #sideData {
@@ -267,7 +271,7 @@ html {
 }
 
 .urlDiv {
-      width: 60% !important;
+      width: 100% !important;
 }
 
 .input-container {
