@@ -1,11 +1,11 @@
 let jsonData;
-let oldJSONData;
+let IDConvertedData;
 let averageData;
 let relatedTagData;
 
 window.onload = async () => {
       jsonData = await pullLocalData(`./data/cardData.json?cache_buster=${Date.now()}`);
-      oldJSONData = await pullLocalData(`./data/old/cardData.json?cache_buster=${Date.now()}`);
+      IDConvertedData = await pullLocalData(`./data/IDConverter.json?cache_buster=${Date.now()}`);
       averageData = await pullLocalData(`./data/averageDeckTags.json?cache_buster=${Date.now()}`);
       relatedTagData = await pullLocalData(`./data/liftData.json?cache_buster=${Date.now()}`);
       let inputField = document.getElementById('urlInput');
@@ -111,8 +111,11 @@ async function findMoxfieldDeck(deckURL) {
       for (cardData of Object.values(deckData.boards.mainboard.cards)) {
             cardUIDs.push(cardData.card.scryfall_id);
       }
-      //FIGURE OUT A WAY FOR MOXFIELD TO USE REAL JSON DATA PLEASE
-      let entries = getTagsFromUIDs(cardUIDs, oldJSONData);
+      let oracleIDs = []
+      for (cardUID of cardUIDs) {
+            oracleIDs.push(IDConvertedData[cardUID]);
+      }
+      let entries = getTagsFromUIDs(oracleIDs, jsonData);
       let significantEntries = calculateZScore(entries, averageData);
       makeGraphFromTags(significantEntries);
 }
