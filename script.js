@@ -4,12 +4,14 @@ let averageData;
 let relatedTagData;
 
 window.onload = async () => {
+      let errorText = document.getElementById('errorText');
+      errorText.innerHTML = `Loading Data...`;
       jsonData = await pullLocalData(`./data/cardData.json?cache_buster=${Date.now()}`);
       IDConvertedData = await pullLocalData(`./data/IDConverter.json?cache_buster=${Date.now()}`);
       averageData = await pullLocalData(`./data/averageDeckTags.json?cache_buster=${Date.now()}`);
       relatedTagData = await pullLocalData(`./data/liftData.json?cache_buster=${Date.now()}`);
+      errorText.innerHTML = ``;
       let inputField = document.getElementById('urlInput');
-      let errorText = document.getElementById('errorText');
       inputField.addEventListener('keydown', function (event) {
             if (event.key === 'Enter') {
                   event.preventDefault();
